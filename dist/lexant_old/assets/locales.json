@@ -1,0 +1,10 @@
+{
+    "locales": [
+        "it",
+        "en",
+        "de",
+        "fr"
+    ],
+    "prefix": "ROUTES.",
+    "escapePrefix": "!"
+}

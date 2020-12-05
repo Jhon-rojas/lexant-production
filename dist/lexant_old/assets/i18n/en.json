@@ -1,0 +1,1014 @@
+{
+  "ROUTES": {
+    "lo-studio": "the-firm",
+    "consulenza-servizi-per-le-imprese": "consulting-&-business-services",
+    "discipline-legali": "Legal-areas",
+    "pubblicazioni": "publications",
+    "scopri-dove-trovarci": "where-you-can-find-us",
+    "news-eventi": "news-&-eventi",
+    "news-eventi-archivio": "news-&-eventi-archive",
+    "il-team": "the-team",
+    "lawyer": "lawyer",
+    "partner": "partner",
+    "senior-associate": "senior-associate",
+    "associate": "associate",
+    "il-network": "the-network",
+    "diritto-bancario-assicurativo-e-finanziario": "banking-insurance-and-finance-law",
+    "diritto-commerciale-e-societario": "commercial-and-corporate-law",
+    "diritto-del-lavoro": "labor-law",
+    "diritto-sportivo": "sports-law",
+    "diritto-amministrativo": "administrative-law",
+    "diritto-fallimentare-e-ristrutturazioni-societarie": "bankruptcy-law-and-corporate-restructuring",
+    "diritto-penale-economico": "economic-criminal-law",
+    "diritto-tributario": "tax-law",
+    "diritto-di-famiglia-e-successioni": "family-and-succession-law",
+    "diritto-dell-informatica": "information-technology-law",
+    "contrattualistica-nazionale-e-internazionale": "national-and-international-contracts",
+    "contenzioso-e-arbitrato": "litigation-and-arbitration",
+    "pubblicazioni-archivio": "publications-archive",
+    "club-lexant-archivio": "club-lexant-archive",
+    "responsibility": "responsibility",
+    "responsibility-archivio": "responsibility-archive"
+  },
+  "SEO": {
+    "home": {
+      "title": "Milan lawyer - Lexant law firm Milan",
+      "description": "Lawyers enrolled in the Milan Bar Association, law firm in Milan, Turin, Verona, Rome"
+    },
+    "lo-studio": {
+      "title": "Milan lawyer - Lexant law firm Milan",
+      "description": "A team of 40 professionals including lawyers and tax consultants - four offices in Italy - Milan - Turin - Rome - Verona"
+    },
+    "consulenza-servizi-per-le-imprese": {
+      "title": "",
+      "description": ""
+    },
+    "discipline-legali": {
+      "title": "",
+      "description": ""
+    },
+    "pubblicazioni": {
+      "title": "",
+      "description": ""
+    },
+    "scopri-dove-trovarci": {
+      "title": "",
+      "description": ""
+    },
+    "news-eventi": {
+      "title": "",
+      "description": ""
+    },
+    "news-eventi-archivio": {
+      "title": "",
+      "description": ""
+    },
+    "il-team": {
+      "title": "Lawyer - Law Firm - Milan - Turin - Verona - Rome",
+      "description": "Four offices in Italy - Milan - Turin - Rome - Verona"
+    },
+    "partner": {
+      "title": "",
+      "description": ""
+    },
+    "senior-associate": {
+      "title": "",
+      "description": ""
+    },
+    "associate": {
+      "title": "",
+      "description": ""
+    },
+    "il-network": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-bancario-assicurativo-e-finanziario": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-commerciale-e-societario": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-del-lavoro": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-sportivo": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-amministrativo": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-fallimentare-e-ristrutturazioni-societarie": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-penale-economico": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-tributario": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-di-famiglia-e-successioni": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-dell-informatica": {
+      "title": "",
+      "description": ""
+    },
+    "contrattualistica-nazionale-e-internazionale": {
+      "title": "",
+      "description": ""
+    },
+    "contenzioso-e-arbitrato": {
+      "title": "",
+      "description": ""
+    },
+    "pubblicazioni-archivio": {
+      "title": "",
+      "description": ""
+    },
+    "club-lexant": {
+      "title": "",
+      "description": ""
+    },
+    "club-lexant-archivio": {
+      "title": "",
+      "description": ""
+    },
+    "responsibility": {
+      "title": "",
+      "description": ""
+    },
+    "responsibility-archivio": {
+      "title": "",
+      "description": ""
+    },
+    "compliance-aziendale": {
+      "title": "",
+      "description": ""
+    },
+    "credit-management": {
+      "title": "",
+      "description": ""
+    },
+    "internazionalizzazione": {
+      "title": "",
+      "description": ""
+    },
+    "certificazione-dei-processi-aziendali": {
+      "title": "",
+      "description": ""
+    },
+    "formazione": {
+      "title": "",
+      "description": ""
+    },
+    "real-estate": {
+      "title": "",
+      "description": ""
+    },
+    "german-desk": {
+      "title": "",
+      "description": ""
+    },
+    "per-saperne-di-piu": {
+      "title": "",
+      "description": ""
+    }
+  },
+  "HOME": {
+    "milan": "MILAN",
+    "turin": "TURIN",
+    "verona": "VERONA",
+    "rome": "ROME",
+    "team": "THE TEAM",
+    "consulting": "CONSULTING",
+    "business": "& BUSINESS",
+    "services": "SERVICES",
+    "legal": "LEGAL",
+    "areas": "AREAS",
+    "contacts": "CONTACTS",
+    "news": "NEWS",
+    "events": "EVENTS"
+  },
+  "STUDIO": {
+    "title": "THE FIRM",
+    "body1": "In the path traced over the years, the Arnaldi Caimmi e Associati Law Firm, founded and directed by the lawyers Anna Caimmi and Andrea Davide Arnaldi, is renewed, with a new identity and a new name: Lexant. <br> Two founding partners, a team of \n40 professionals including lawyers and tax consultants, four offices in Italy, a loyal client portfolio - made up of multinationals and SMEs operating in every industry - and a series of innovative services: this in synthesis is Lexant's photography. <br> The forensic profession in \ncontinuous evolution, the daily work alongside clients and the flexibility of the firm, which goes well with the dynamics of the markets, have significantly contributed to indicating the path of renewal.",
+    "body2": "The evolutionary roadmap of SLACC before and of Lexant now, has been outlined in the innovation of the Firm's organizational model, definetely in a league of its own, in the sectoral expertise and in the achievement of the clients' trust. The Firm, considered as a whole, is the key player and guarantor of the professional quality of its professionals: multi-skilled and flexible, who provide their expertise in a wide range of activities, both in the judicial and extrajudicial fields, with the ability to put, in every legal issue faced, a careful, specific and at the same time comprehensive vision. The overall service of the Firm's organization is always growing - and better - than the sum of the individual services; indeed it arises from the contribution, independent and professional, of each person who is part of it. For this reason, the Firm has found in the Lexant brand an identity so fitting with respect to what is its nature.",
+    "body3": "Strength, industriousness and dedication, willingness to go the extra mile, power of collective intelligence, team spirit, technical know-how, resourcefulness, organizational efficiency. These are the values in which Lexant identifies itself. Its success, therefore, cannot be measured only according to the standard criteria of the legal community - number of lawyers, offices, turnover - but can be assessed notably in its innovative mentality. Lexant listens, understands and make itself understood: a simple modus operandi, in some ways courageous and certainly in line with its new identity."
+  },
+  "TEAM": {
+    "title": "THE TEAM",
+    "partner_title": "PARTNER",
+    "seniors_title": "SENIOR ASSOCIATE",
+    "associate_title": "ASSOCIATED",
+    "collaborator_title": "COLLABORATORS",
+    "counsel_title": "OF COUNSEL",
+    "PARTNER": [
+      {
+        "path": "partner/andrea-davide-arnaldi",
+        "type": "PARTNER",
+        "name": "Lawyer Andrea Davide Arnaldi",
+        "albo": "Register of Lawyers Milan, 2001",
+        "birth": "Born in Milan on July 9,1970",
+        "languages": "Italian and English.",
+        "training": " Degree in Law, Università Cattolica del Sacro Cuore of Milan, 1996.",
+        "activity": "Areas of activity: Support and legal advice in industrial investment projects in foreign markets; mergers and incorporations, national and international transport law, contracts and litigation relating to agency agreement; commercial law, bankruptcy law.",
+        "email": "andrea.arnaldi@lexant.it",
+        "seat": "Milan",
+        "img": "assets/images/lawyer/arnaldi.png"
+      },
+      {
+        "path": "partner/anna-caimmi",
+        "type": "PARTNER",
+        "name": "Lawyer Anna Caimmi",
+        "albo": "Register of Lawyers Milan, 1996",
+        "birth": "Born in Milan on April 4, 1968.",
+        "languages": "Italian, German, English and French",
+        "training": "Degree in Law, Università Statale of Milan, 1992. Degree Thesis in Philosophy of law, title 'The concept of rule of law in common law systems.'",
+        "activity": "Areas of activity: Private and procedural international law, counseling and labor litigation, family law, corporate and commercial law, bankruptcy law, contract law.",
+        "email": "anna.caimmi@lexant.it",
+        "seat": "Milan",
+        "img": "assets/images/lawyer/caimmi.png"
+      }
+    ],
+    "SENIOR": [
+      {
+        "path": "senior-associate/nicola-traverso",
+        "type": "SENIOR ASSOCIATE",
+        "name": "lawyer Nicola Traverso",
+        "albo": "Register of Lawyers Milan, 2013",
+        "birth": "Born in Schio (VI) on November 2, 1984",
+        "languages": " Italian, English, French and German",
+        "training": "Degree in Law, Università of Bologna, 2009. Thesis in Logic and legal argumentation.",
+        "activity": "Civil law.",
+        "email": "nicola.traverso@lexant.it",
+        "seat": "Milan",
+        "img": "assets/images/lawyer/traverso.png"
+      },
+      {
+        "path": "senior-associate/simona-cardillo",
+        "type": "SENIOR ASSOCIATE",
+        "name": "lawyer Simona Cardillo",
+        "albo": "Register of Lawyers Milan, 2010",
+        "birth": "Born in Borgomanero (NO) on October 8, 1982",
+        "languages": "Italian and English.",
+        "training": "Degree in Law, Università Statale of Milan, 2006. Thesis in European Union law.",
+        "activity": "Civil litigation, credit management.",
+        "email": "simona.cardillo@lexant.it",
+        "seat": "Milan",
+        "img": "assets/images/lawyer/cardillo.png"
+      }
+    ],
+    "ASSOCIATE": [
+      {
+        "path": "associate/enrico-morello",
+        "type": "ASSOCIATED",
+        "name": "Lawyer Enrico Morello",
+        "albo": "Register of Lawyers Milan, 2017",
+        "birth": "Born in Castelfranco Veneto (TV) on February 1, 1985",
+        "languages": "Italian, English and Spanish",
+        "training": "Degree in Law, European and Transnational option, Università degli Studi of Trento. Thesis in Computer Criminal Law.",
+        "activity": "Civil litigation, credit management.",
+        "email": "enrico.morello@lexant.it",
+        "seat": "Milan",
+        "img": "assets/images/lawyer/morello.png"
+      },
+      {
+        "path": "associate/carmela-prencipe",
+        "type": "ASSOCIATED",
+        "name": "lawyer Carmela Prencipe",
+        "albo": "Register of Lawyers Milan, 2017",
+        "birth": "Born in Manfredonia (FG) on September 27, 1986",
+        "languages": "Italian and English",
+        "training": "Degree in Law, Corporate Law, Università Cattolica del Sacro Cuore of Milan, 2011 Thesis in Commercial Criminal Law",
+        "activity": "Civil law, banking law",
+        "email": "carmela.prencipe@lexant.it",
+        "seat": "Milan",
+        "img": "assets/images/lawyer/prencipe.png"
+      },
+      {
+        "path": "associate/gianmaria-albano",
+        "type": "ASSOCIATED",
+        "name": "lawyer Gianmaria Albano",
+        "albo": "Register of Lawyers Milan, 2012",
+        "birth": "Born in Potenza on September 25, 1980",
+        "languages": "Italian and English",
+        "training": "Degree in Law, Università Cattolica del Sacro Cuore of Milan, Thesis in Criminal Procedural Law, 2007",
+        "activity": "Civil litigation, bankruptcy law, credit management.",
+        "email": "gianmaria.albano@lexant.it",
+        "seat": "Milan",
+        "img": "assets/images/lawyer/albano.png"
+      },
+      {
+        "path": "associate/francesca-bello",
+        "type": "ASSOCIATED",
+        "name": "lawyer Francesca Bello",
+        "albo": "Register of Lawyers Lecce, 2010",
+        "birth": "Born in Gagliano del Capo (LE) on May 18, 1982",
+        "languages": "Italian and English",
+        "training": "Degree in Law, Università of Bologna, 2007. Thesis in Labor Law - Transport Law in connection with Administrative Law",
+        "activity": "Civil law, criminal law",
+        "email": "francesca.bello@lexant.it",
+        "seat": "Milan",
+        "img": "assets/images/lawyer/bello.png"
+      },
+      {
+        "path": "associate/cristina-pantaleo",
+        "type": "ASSOCIATED",
+        "name": "lawyer Cristina Pantaleo",
+        "albo": "",
+        "birth": "Born in Turin (TO), 18 October 1978",
+        "languages": "Italian and English",
+        "training": "Degree in Law, University of Turin 2004, Thesis in Criminal Procedure.",
+        "activity": "civil law, company law, contracts for companies and entities.",
+        "email": "cristina.pantaleo@lexant.it",
+        "seat": "Turin",
+        "img": "assets/images/lawyer/pantaleo.jpg"
+      }
+    ],
+    "COLLABS": [
+      {
+        "name": "Lawyer Gianluca Zucco",
+        "albo": "",
+        "birth": "Born in Milan on February 7, 1982",
+        "languages": "Italian and English, Spanish.",
+        "training": "Degree in Law, option Corporate Law, University of Milan. Thesis in Insurance Law ",
+        "activity": "Areas of activity: Credit management ",
+        "email": "gianluca.zucco@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "Lawyer Fabiana Montefusco",
+        "albo": "",
+        "birth": "Born in Naples on March 17, 1987",
+        "languages": "Italian and English.",
+        "training": "Master's Degree in Law - Federico II University of Naples <br> Thesis in Administrative Law",
+        "activity": "civil law, banking and financial law",
+        "email": "fabiana.montefusco@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "lawyer Marco Pescatore",
+        "albo": "",
+        "birth": "Born in Grottaglie (TA) on 7.02.1986",
+        "languages": "Italian and English.",
+        "training": "Master's Degree in Law - Thesis in Economics and Competition Law <br> Civil Law, Banking Law, Bankruptcy Law, Credit Management",
+        "activity": "civil law, banking and financial law",
+        "email": "marco.pescatore@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "lawyer Valentina Fariello",
+        "albo": "",
+        "birth": "Born in Naples (NA) on 11.03.1986",
+        "languages": "Italian and English.",
+        "training": "Master's Degree in Law <br> University of Naples Federico II <br> Thesis in Institutions of Roman Law",
+        "activity": "civil law, banking and financial law",
+        "email": "valentina.fariello@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "lawyer Andrea Mileto",
+        "albo": "",
+        "birth": "Born in Verona on 17.06.1990",
+        "languages": "Italian, Spanish, English.",
+        "training": "Single cycle master's degree in law.<br> University of Verona, July 2015. <br> Thesis in sports law.",
+        "activity": "Sports Law",
+        "email": "andrea.mileto@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "lawyer Simona Graziano",
+        "albo": "",
+        "birth": "Nata a Torino (TO) il 30.12.1973",
+        "languages": "Italian English French.",
+        "training": "Degree in Law, University of Turin 1998, Thesis in labor law.",
+        "activity": "Practice area: Civil law, bankruptcy law, litigation area",
+        "email": "simona.graziano@lexant.it",
+        "seat": "Turin office",
+        "img": ""
+      },
+      {
+        "name": "lawyer Giorgia Maria Barberis",
+        "albo": "",
+        "birth": "Born in Savigliano (CN) on 13.10.1984",
+        "languages": "Italian English French.",
+        "training": "Formazione: Laurea specialistica in Giurisprudenza, Università di Torino 2008, Tesi in diritto amministrativo. <br> Dottorato presso l'Università di Torino, tesi sulla tutela del lavoro negli appalti pubblici, anni 2014/2017.",
+        "activity": "Area of ​​activity: labor law, civil law, DPO auxiliary in the privacy field.",
+        "email": "giorgia.barberis@lexant.it",
+        "seat": "Turin office",
+        "img": ""
+      },
+      {
+        "name": "lawyer Andrea Fava",
+        "birth": "Born in Turin, June 6, 1983",
+        "languages": "Italian, English, Spanish.",
+        "training": "Master's Degree in Law, specialization in Business Law. <br> University of Siena <br> Thesis in Labor Law",
+        "activity": "Civil law, Banking law, Bankruptcy law, Credit management",
+        "email": "andrea.fava@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "Dott. Frank Oltolini",
+        "albo": "",
+        "birth": "Born in Sesto San Giovanni on 09.12.1991",
+        "languages": "Italian and English",
+        "training": "Single cycle master's degree in law. <b> University of Milan, June 2017. <br> Thesis in comparative public law.",
+        "activity": "Bankruptcy Law, Credit Management.",
+        "email": "frank.oltolini@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Emanuela Mantoan",
+        "albo": "",
+        "birth": "Born in Giussano (MB) on 11.09.1988",
+        "languages": "Italian English",
+        "training": "Single cycle master's degree in Law. <br> University of Milano Bicocca 2014 <br> Thesis in European Constitutional Law.",
+        "activity": "Aree di attività: Diritto fallimentare, contenzioso civile, gestione del credito.",
+        "email": "emanuela.mantoan@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Roberta Tortora",
+        "birth": "Born in Naples on 08/07/1980",
+        "languages": "Italian and English",
+        "training": "Degree in Law from the University of Naples Federico II. <br> Thesis in Political Economy applied to Labor Law.",
+        "activity": "Practice areas: Bankruptcy law, Credit management.",
+        "email": "roberta.tortora@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "Dott. Francesco Gnazzo",
+        "albo": "",
+        "birth": "Born in Battipaglia (SA) on 14.02.1993",
+        "languages": "Italian and English",
+        "training": "Single cycle master's degree in Law. <br> Thesis in Bankruptcy Law.",
+        "activity": "Bankruptcy law, civil litigation, credit management.",
+        "email": "francesco.gnazzo@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "Dott. Federico Coviello",
+        "albo": "",
+        "birth": "Born in Benevento (Bn) on February 7, 1993",
+        "languages": "Italian and English",
+        "training": "Single Cycle Master's Degree in Law <br> University of Sannio <br> Thesis in Private International Law",
+        "activity": "",
+        "email": "federico.coviello@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Giorgia Panetta",
+        "albo": "",
+        "birth": "Born in Turin on 05.04.1982",
+        "languages": "Italian English French.",
+        "training": "Bachelor's Degree in Legal Sciences - University of Turin, December 2015, Thesis in Banking Law. <br> Single-cycle Master's Degree in Law - University of Turin, April 2019, Thesis in Administrative Law.",
+        "activity": "Practice area: Credit Management, Bankruptcy Law, Pinto Law.",
+        "email": "giorgia.panetta@lexant.it",
+        "seat": "Turin office",
+        "img": ""
+      },
+      {
+        "name": "Dott. Davide D’Abronzo",
+        "albo": "",
+        "birth": "Born in Caserta on 09.11.1989",
+        "languages": "Italian, English, Spanish",
+        "training": "Single cycle master's degree in Law - Federico II University of Naples.",
+        "activity": "Non Performing Exposures, credit management.",
+        "email": "davide.dabronzo@lexant.it",
+        "seat": "Milan office",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Roberta Pietri",
+        "albo": "",
+        "birth": "Born in Brescia on 23/12/1992",
+        "languages": "Italian English French",
+        "training": "Single-cycle master's degree in law - University of Brescia - Thesis in civil and European law: \"the assignment and succession in the contract\"",
+        "activity": "Banking and finance, npl. management",
+        "email": "roberta.pietri@lexant.it",
+        "seat": "Milano office",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Annachiara Censi",
+        "albo": "",
+        "birth": "Born in Fermo on 17/05/1994",
+        "languages": "Italian, English, Spanish",
+        "training": "Single-cycle master's degree in Law at the University of Bologna Alma Mater Studiorum - Thesis in Financial Markets Law \"Principles of Islamic finance and its application in Western legal contexts\"",
+        "activity": "Banking and Finance, NPL management",
+        "email": "annachiara.censi@lexant.it",
+        "seat": "Milan Office",
+        "img": ""
+      },
+      {
+        "name": "Avv. Mariateresa Varotta",
+        "albo": "",
+        "birth": "Born in Sant’Agata di Militello (ME) on 07/03/1990",
+        "languages": "Italian, English, Spanish",
+        "training": "Master's Degree in Law at the University of Palermo - Thesis in criminal and European procedural law \"The principle of ne bis in idem in domestic law and in the European legal space\"",
+        "activity": "Banking and Finance, NPL management",
+        "email": "mariateresa.varotta@lexant.it",
+        "seat": "Milan Office",
+        "img": ""
+      },
+      {
+        "name": "Avv. Giuseppe Smeriglia",
+        "albo": "",
+        "birth": "Born in Sant’Agata di Militello (ME) on 17.08.1990",
+        "languages": "Italian English French",
+        "training": "Master's degree in law from the University of Messina and licensed to practice law. Thesis in Constitutional Law, entitled \"Principle of collegiality and dissent in the experience of the Judge of the Laws\".",
+        "activity": "Banking and Finance, NPL management",
+        "email": "giuseppe.smeriglia@lexant.it",
+        "seat": "Milan Office",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Sara Traficante",
+        "albo": "",
+        "birth": "Born in Milan (MI), January 14, 1989",
+        "languages": "Italian English",
+        "training": "Degree in law from the University of Milan",
+        "activity": "Banking and Finance, NPL management",
+        "email": "sara.trafficante@lexant.it",
+        "seat": "Milan Office",
+        "img": ""
+      },
+      {
+        "name": "Avv. Diego Quaterni",
+        "albo": "Avvocati Cuneo, 2019",
+        "birth": "Born in Carmagnola (TO), May 4, 1987",
+        "languages": "Italian, English, Spanish",
+        "training": "Degree in Law, University of Turin. Thesis in family law.",
+        "activity": "civil law, administrative law.",
+        "email": "diego.quaterni@lexant.it",
+        "seat": "Turin Office",
+        "img": ""
+      }
+    ],
+    "COUNSELS": [
+      {
+        "name": "lawyer Alessandro Manfredini",
+        "albo": "",
+        "birth": "Born in Milan on April 22, 1945.",
+        "languages": "Italian and English, francese.",
+        "training": "",
+        "activity": "tax law, commercial law, corporate finance, stock exchange listings and divestments, mergers and incorporations, arbitration.",
+        "email": "alessandro.manfredini@lexant.it",
+        "seat": "Turin office",
+        "img": ""
+      },
+      {
+        "name": "lawyer Roberta Francesca Marinaccio",
+        "albo": "",
+        "birth": "Born in Milan on February 7, 1964",
+        "languages": "Italian and English",
+        "training": "Graduated in Law, State University of Milan, 1991",
+        "activity": "Civil Litigation, Labor Law.",
+        "email": "roberta.marinaccio@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "lawyer Nicola Vasile",
+        "albo": "",
+        "birth": "Born in Palermo on 1 April 1960",
+        "languages": "Italian and English, francese",
+        "training": "Degree in Law, University of Milan 1986, thesis in Commercial Law. <br> 1982: Summer Program in American Law organized by Columbia University in New York in collaboration with the Dutch Universities of Leyden and Amsterdam. <br> 1983: Course of \nPrivate International Law organized by the Hague Academy of International Law, at the Hague Court of Justice. <br> Assistant to the Chair of Commercial Law of Prof. Pier Giusto Jaeger of the State University of Milan from 1987 to 1996.",
+        "activity": "Litigation and Arbitration, Civil Law, National and International Corporate and Commercial Law, Bankruptcy and Insurance Law.",
+        "email": "nicola.vasile@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "lawyer Lucia Flintrop",
+        "albo": "",
+        "birth": "Born in Bochum (Germany) on 11 April 1970",
+        "languages": "Italian, German, English",
+        "training": "Degree in Law, Catholic University of the Sacred Heart of Milan 1995, thesis on European Union law. \n<br> School of specialization in German law and trade law between Italy and Germany, 1996 University of Ferrara",
+        "activity": "Areas of intervention: National and international commercial and corporate law, contracts, real estate, litigation and arbitration.",
+        "email": "lucia.flintrop@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "lawyer Corrado Diaco",
+        "albo": "",
+        "birth": "Born in Somma Vesuviana on April 3, 1960",
+        "languages": "Spanish English",
+        "training": "Cassation Lawyer, Member of the chair of civil law at the Faculty of Law of the University of Naples \"Parthenope\"; \nLegal consultant for numerous companies operating nationally and internationally in the public sectors of healthcare supplies; \nAuthor of numerous publications in scientific journals and newspapers; \nadministrative law, public procurement, relations and litigation with Public Administrations - TAR and Council of State-pre-litigation A.N.A.C. \nconcessions for alternative energy, construction, public financing.",
+        "activity": "Aree di intervento:Diritto Commerciale e Societario nazionale ed internazionale, Contrattualistica, Real Estate, Contenzioso e Arbitrati.",
+        "email": "corradodiaco@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "lawyer Prof. Elio Cocorullo",
+        "albo": "",
+        "birth": "Born in Naples on February 28, 1954",
+        "languages": "inglese, tedesco",
+        "training": "Avvocato Cassazionista, Componente il Comitato di indirizzo dell'Offerta Formativa della Università degli Studi di Napoli Parthenope; Presidente della Camera degli Avvocati Tributaristi di Napoli e  della Commissione di diritto tributario dell'Ordine degli Avvocati di Napoli; Docente, nel 2010, della Scuola Superiore dell'Economia e delle Finanze del MEF; Relatore e/o moderatore in numerosi convegni scientifici organizzati dagli Ordini Professionali; Autore di numerose pubblicazioni su riviste e testate scientifiche; Già vicedirettore, presso l'Ufficio Distrettuale delle Imposte Dirette di Padova e Napoli; Già Consigliere giuridico del Sottosegretario di Stato al Ministero del Bilancio e Programmazione Economica.",
+        "activity": "tax law, relations and litigation with the Revenue and Collection Agency, Tax Cassation, corporate law",
+        "email": "elio.cocorullo@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "lawyer Sabino Di Sibio",
+        "albo": "",
+        "birth": "Nato a Milano il 17.05.1972",
+        "languages": "",
+        "training": "Formazione: Laurea in Giurisprudenza, Università statale di Milano 1999 - Master in Management,  2000 <br> Tesi: Diritto Penale, concorso di persone nel reato e connivenza non punibile",
+        "activity": "Area di attività: Diritto Penale",
+        "email": "sabino.disibio@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "lawyer Manuela Magistro",
+        "albo": "",
+        "birth": "Nata a Bari il 1 ottobre 1979.",
+        "languages": "Italian and English.",
+        "training": "Formazione: Laurea in Giurisprudenza, Università di Bari aprile 2002; Master in Marketing Management – Business School de Il sole 24 Ore e Università di Parma, 2004; Executive Mater in Contrattualistica d’impresa e diritto internazionale – Business School de Il sole 24 Ore, 2016; Corso di Perfezionamento in Diritto Sportivo e Giustizia Sportiva – Università Statale di Milano, 2018.<br>Cultore della Materia in Diritto Pubblico presso l’Università degli Studi di Bari – Corso di Laurea in Scienze Motorie.<br>Docente Scuola Regionale dello Sport Coni Puglia dal 2008.<br>Componente Corte Federale di Appello F.I.B.I.S. e F.I.K.B.M.S. dal 2019.<br>Componente Commissione Cultura, Spettacolo e Sport dell’Ordine degli Avvocati di Bari.",
+        "activity": "Area di attività: Diritto sportivo.",
+        "email": "",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "lawyer Simone Bongiovanni",
+        "albo": "",
+        "birth": "Nato a Savigliano (CN) il 27.02.1974",
+        "languages": "Italian and English, francese.",
+        "training": "Formazione: Laurea in Giurisprudenza, Università di Torino 2001, Tesi in Diritto Pubblico. <br> Ha partecipato come relatore a convegni illustrativi del GDPR in Milano e Torino ed è coautore del testo “Il vademecum sul regolamento europeo n. 2016/679” pubblicato da Key editore.",
+        "activity": "Area di attività: diritto della privacy. In particolare svolge l’incarico di Data Protection Officer in conformità al GDPR 679/16 per svariate società ed enti pubblici.",
+        "email": "simone.bongiovanni@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "lawyer  Antonio Francesco Morone",
+        "albo": "",
+        "birth": "Nato a Torino il 15.01.1978 ",
+        "languages": "",
+        "training": "Formazione: Laurea in Giurisprudenza, Università degli Studi di Torino 2001 - Tesi in procedura penale<br>Ha conseguito il Dottorato di ricerca in diritto penale nel 2006 con una tesi su 'La responsabilità da reato degli enti: amministrativa in Italia e penale in Belgio'<br>Presso l'Università degli Studi di Torino è stato assegnista di ricerca ed incaricato come Docente a contratto nella materia del diritto penale.<br>E' altresì autore di numerose pubblicazioni (in particolare nel campo del diritto penale della P.A. e dell'Economia) ed è Direttore della Scuola per la formazione per l'esame di Avvocato dell'Editore Giappichelli",
+        "activity": "Area di attività: Diritto Penale dell'economia",
+        "email": "antonio.morone@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "lawyer Giovanni Luca Annicchino ",
+        "albo": "",
+        "birth": "Born in Corigliano Calabro (CS) on 27.07.1977",
+        "languages": "English and French.",
+        "training": "Degree in Law, University of Turin 2004, Thesis in Forensic Medicine. <br> He holds an . \nin International Crime and Justice at UNICRI and in 2008 she did an internship at the International Criminal Court in The Hague in the Netherlands.",
+        "activity": "Practice area: public and private international law, European Union law, wine law, international contracts.",
+        "email": "giovanni.annicchino@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "lawyer Costanza Mottino",
+        "albo": "",
+        "birth": "Born in Biella on 31.01.1985.",
+        "languages": "",
+        "training": "Degree in Law, University of Turin 2009 - Thesis in corporate law. <br> He participated in 2011 in the 1st level Master in Law at the Litubium School, Turin, in 2017 in the Master \"Data Protection\" organized by Sole 24 ore and \nto the Master Privacy Officer",
+        "activity": "",
+        "email": "costanza.mottino@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Dott. Luca Bertoli",
+        "albo": "",
+        "birth": "Born in Pavia on 22 August 1980",
+        "languages": "",
+        "training": "Degree in Economics and Business Law, L. Bocconi University of Milan <br> Adjunct Professor of Financial Statements and Extraordinary Transactions at L. Bocconi University and Adjunct Professor of Extraordinary and Interim Financial Statements at the University of Pavia \n. <br> He has gained experience in preparing appraisals for companies, shares and share packages, intangible assets, in financial, corporate and tax consultancy, in participating in technical consultancy in judicial and arbitration proceedings, in preparing opinions on accounting matters \nand estimative. <br> Author of publications on extraordinary transactions, accounting and corporate governance, published in legal and business journals. <br> He has given speeches at conferences, seminars and masters <br> He holds the position of member of Boards of \nAdministration, Boards of Statutory Auditors and Supervisory Bodies",
+        "activity": "Business and tax consultancy",
+        "email": "luca.bertoli@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv.  Andrea Gandino",
+        "albo": "",
+        "birth": "Born in Turin on 16.06.1978",
+        "languages": "English",
+        "training": "Degree in Law, University of Turin 2002 - Thesis in environmental law. He obtained a research doctorate in administrative law in 2006 at the \"State\" University of Milan. Postdoctoral fellow at the University of Turin, he has been the holder of several scholarships and research grants, as well as a contract lecturer in administrative law and environmental law at the University of Turin and at the University of Studies of Eastern Piedmont \"A. Avogadro \". He is also the author of numerous publications in the field of administrative law. ",
+        "activity": "Cassation lawyer, he is a consultant to countless public administrations and investee companies and provides judicial assistance before the administrative justice bodies in the field of public contracts, public services, territorial governance, environmental and energy law.",
+        "email": "andrea.gandino@gpavvocati.it",
+        "seat": "",
+        "img": ""
+      }
+    ]
+  },
+  "CONTATTI": {
+    "title": "Contacts",
+    "milano": "MILAN",
+    "torino": "TURIN",
+    "verona": "VERONA",
+    "roma": "ROME",
+    "download": "Download the brochure"
+  },
+  "DISCOVERMORE": {
+    "title": "TO KNOW MORE",
+    "name": "first name",
+    "name_error": "Name required",
+    "cognome": "Surname",
+    "email": "Enter the Email",
+    "email_none": "Email required",
+    "email_valid": "Invalid email",
+    "message": "MESSAGE",
+    "message_error": "Mandatory message",
+    "bottom": "Submit",
+    "error_invio": "Sending failed try later",
+    "true_invio": "Sending successful",
+    "privacy": "I consent to the processing of my personal data for the purposes indicated"
+  },
+  "ABOUTUS": {
+    "title": "SO DISTANT SO CLOSE",
+    "description": "Thanks to the solidity of our group and the values ​​we desire, they always represent us - industriousness, with division, industriousness, willingness to sacrifice, collective intelligence - it is as if we were in our Studio together with our customers: the strength of the team emerges, and is strengthened \n, in these moments. \nAnd we feel even closer to our symbol, the ant.We are not far away, because we have always been cohesive and close: Lexant listens, understands and makes itself available to its customers, today more than ever.",
+    "quote": "So DistANT, so close."
+  },
+  "CONSULENCE": {
+    "title": "CONSULTING & BUSINESS SERVICES",
+    "firstParagraph": "Companies are increasingly looking for the law firm which provides not just a highly skilled deeply knowledgeable legal counsel, but also a \"smart\" professional, who can offer advisory and services in highly integrated areas in the client's business processes, with a managerial perspective, responsive to business needs. ",
+    "secondParagraph": "Lexant verfügt über Bildung und Fähigkeit, rechtliche und strategische Beratung in Unternehmensbereichen, wie Compliance, Datenschutz, Kredit- und Risikomanagement und Immobilien, anzubieten. Nicht nur das. Die Nähe von Lexant-Experten zu ihren Kunden drückt sich in Beratung und Unterstützung für die Internationalisierung von Unternehmen, die Zertifizierung von Geschäftsprozessen und die Schulung von Mitarbeitern aus."
+  },
+  "CLUB": {
+    "title": "CLUB LEXANT",
+    "firstParagraph": "The Firm, with the educational and logistic support of Academy ASK organizes training sessions, some of them exclusively dedicated to its clients and some open to a larger audience. \nA unique environment where clients and guests can discuss directly with Lexant Professionals on the latest legislative developments and their practical implementation. \nExclusive events specifically conceived by the Firm not only through the involvement of their lawyers but also that of their associative and commercial partners. \nA great networking opportunity also characterized by convivial moments and even extra-professional growth thanks to the involvement of coaches and trainers.",
+    "secondTitle": "CLUB LEXANT EVENTS",
+    "secondSubTitle": "<h5> The CFO and corporate compliance </h5> <small> March 25, 2020 TURIN </small>"
+  },
+  "PUBBLICATIONS": {
+    "title": "PUBLICATIONS",
+    "firstParagraph": "Lexant periodically produces editorial, publications and essays on the most recent legal issues."
+  },
+  "GERMANDESK": {
+    "title": "GERMAN DESK",
+    "firstParagraph": "Lucia Flintrop, Senior of Counsel, is Head of the German Desk within Lexant.",
+    "secondParagraph": "Provides support and legal advice to German companies in Italy.",
+    "thirdParagraph": "His areas of intervention concern in particular: national and international commercial and corporate law, contracts, real estate, litigation and arbitration.",
+    "fourthParagraph": "In the case of direct investments in Italy, lawyer Flintrop and the Lexant team are at the side of foreign clients in all the necessary activities: from the establishment of the company or branch to its liquidation. <br/> In particular, they offer support for \n:",
+    "list": "<ul> <li> design and implement the local company structure </li> <li> define corporate governance, contracts and regulatory compliance </li> <li> comply with the laws in force in Italy in the reference sector \n</li> <li> assistance in services and payroll in collaboration with accountants and employment consultants </li>",
+    "fifthParagraph": "In addition, the German Desk offers support in the drafting and negotiation of any type of commercial contract to German companies wishing to establish commercial contacts with Italian companies. \nIt also assists its customers by offering advice in the following areas of expertise:",
+    "secondList": "<ul> <li> debt collection </li> <li> bankruptcy law </li> <li> international law </li> <li> litigation (also before the Court of Cassation) and arbitration </li> </ul>",
+    "sixthParagraph": "German customers are thus found in the lawyer \nFlintrop and in the Lexant Studios an ideal contact person to rely on with the certainty of receiving a personalized service, meeting your specific needs"
+  },
+  "CORPORATECOMPLIANCE": {
+    "title": "CORPORATE COMPLIANCE",
+    "firstParagraph": "Over the last decade, there has been a significant regulatory development on corporate controls and social responsibility. \nThis has translated operationally into a greater attention to corporate compliance, that is to say that activity aimed at preventing the risk of non-compliance of the company with the standards, suggesting, where misalignments are found, the most appropriate solutions.",
+    "secondParagraph": "Specifically, the compliance function within a company must:",
+    "list": "- prevent misalignments between company procedures and all internal and external rules <br/> - assist company structures in applying the rules <br/> - prepare training courses to adapt the internal procedures of employees and collaborators to \nstandards <br/> - coordinate and guarantee the implementation of the requirements required by the standards <br/> - report the latest regulatory changes in order to periodically update the documentation in place at the company <br/> - resolve situations of discrepancy \nbetween the regulations in force and the specific operating realities of the company <br/> - ensuring relations with internal and external Authorities and Control Bodies. <br/>",
+    "thirdParagraph": "Lexant assists and advises companies with reference to the following areas of intervention:",
+    "secondList": "- Legislative Decree 81/2008 \"Safety at work\" <br/> - European Reg. 2016/679 \"GDPR Privacy\" <br/> - Legislative Decree 231/01 \"Liability for crime of entities and organizational models\" \n<br/> - Law 190/2012 \"Anti-corruption\" <br/> - DL \n1/2012 - Legislative Decree \n29/2012 (Law 62/2012) \"Legality rating\""
+  },
+  "TAXADVISORYSERVICE": {
+    "title": "TAX ADVISORY SERVICE",
+    "firstParagraph": "In order to be able to respond concretely to the tax needs of its customers, Lexant uses a team of tax lawyers and chartered accountants able to combine innovation and professionalism, and to identify effective solutions for specific tax problems. In particular, Lexant offers:",
+    "list": "- extrajudicial and judicial protection, also before the Supreme Court of Cassation <br/> - assistance in tax planning <br/> - assistance in the preparation of financial statements, also prepared in accordance with IAS-IFRS accounting principles <br/> - support in drafting appraisals, business and financial plans <br/> - specific assistance in corporate restructuring operations of M&A, Due Diligence and management control"
+  },
+  "CREDITMANAGEMENT": {
+    "title": "CREDIT MANAGEMENT",
+    "firstParagraph": "Streamlining company processes relating to credits provides a greater liquidity, improves the active cycle and puts the company in a position to create added value. ",
+    "secondParagraph": "In large and medium-sized enterprises, contingent situations may arise requiring the involvement of an external consultant specialised in credit management.",
+    "thirdParagraph": "The professionals of Lexant, long time active and with a consolidated specialisation in the management of credit recovery activities, assist companies in the processes of revision and / or implementation of their own risk & credit management system, also within the scope of the Certification of such processes according to the highest international standards and in particular of the UNI Practice."
+  },
+  "INTERNATIONALIZATION": {
+    "title": "INTERNATIONALIZATION",
+    "firstParagraph": " Thanks to a wide network established over the years, Lexant offers its clients specific know-how in the field of preliminary consultancy, feasibility studies and on-site assistance, company relocations, production integrations, establishment of joint ventures and company mergers, trading, surveillance on the product quality.",
+    "secondParagraph": "In particular, the dedicated Lexant Division deals with: ",
+    "subTitle": "Industrial projects:",
+    "list": "- Qualitative and quantitative evaluation of investment and industrial projects in the reference market.<br/>- Market analysis by sector.<br/>- Feasibility studies<br/>- Assistance in the establishment / registration of manufacturing and commercial companies.<br/>- Assistance in the implementation phase of the project. <br/>- Research of the industrial site and assistance during the construction of the plant..<br/>-Research and categorisation of raw material suppliers.<br/>- Assistance in the research, selection, training, management and administration of personnel.<br/>",
+    "secondSubTitle": "Commercial projects:",
+    "secondList": "- Search for partners aimed for the distribution of products. <br/>- Branding, development and brand / product positioning.<br/>- Research and categorisation of product suppliers.<br/>- Advice and support for Marketing and Communication activities.<br/>"
+  },
+  "COMPLIANCEPROCESSCERTIFICATION": {
+    "title": "CERTIFICATION OF COMPANY PROCESSES",
+    "firstParagraph": "The certification of company management systems, regulated by international standards, ensures the ability of an organization to structure itself and manage its own resources and processes in such a way as to recognize and satisfy customers' needs (quality management systems) or, more generally, of stakeholders (needs related to compliance with mandatory requirements), as well as the commitment to continuously improve this capacity in the framework of a process approach. \nLexant professionals work alongside companies in the creation and optimization of management systems, implementing them and making them operational according to the main regulations.",
+    "secondParagraph": "Lexant professionals support companies in creating and optimizing management systems, implementing and making them operational according to the main regulations.",
+    "thirdParagraph": "Through various levels of intervention, Lexant introduces management systems obtaining certification according to the following primary schemes:",
+    "list": "- Consulenza certificazioni sistemi di gestione qualità a norma ISO 9001:2015<br/>- Consulenza certificazioni sistemi di gestione del credito RMCM (TÜV Rheinland)<br/>- Consulenza certificazioni sistemi di gestione del rischio (ISO 31000 e correlate)<br/>- Consulenza certificazioni sistemi di gestione della Continuità Operativa (Business Continuity) ISO 22301<br/>- Consulenza certificazioni sistemi di gestione della sicurezza delle informazioni (ISO IEC 27001)<br/>- Consulenza certificazioni sistemi di gestione sicurezza sul lavoro OHSAS 18001<br/>- Consulenza certificazioni sistemi di gestione ambientale regolamento 14001 ed EMAS<br/>- Consulenza certificazioni sistemi di gestione della Sostenibilità degli Eventi (ISO 20121)<br/>- Consulenza certificazioni responsabilità sociale SA8000<br/>- Consulenza certificazioni settore Sicurezza e igiene agroalimentare ISO 22000 ed HACCP<br/>- Consulenza certificazioni settore turismo ed attività ricettive (carta dei Servizi, Bollino Blu, etc.)<br/>- Marcatura CE - certificazione di prodotto<br/>- Auditing di I e II parte (secondo norma ISO 19011 e standard richiesto)<br/>- Consulenza Sicurezza sul lavoro e adempimenti D.lgs. 81/2008 e smi<br/>- Consulenza attestazioni SOA – qualificazione per gli esecutori di lavori pubblici<br/>- Progettazione e realizzazione strutture di gestione software di sistemi aziendali"
+  },
+  "TRAINING": {
+    "title": "TRAINING",
+    "firstParagraph": "Lexant professionals carry out teaching activities on legal and tax issues for various training centers and trade associations.",
+    "secondParagraph": "In particular, the Firm collaborates with important companies such as:",
+    "list": "- LUISS Business School | <a href=\"www.businessschool.luiss.it\">www.businessschool.luiss.it</a><br/>- Università di Pisa | <a href=\"www.master-cfo.it\">www.master-cfo.it</a><br/>- Associazione Nazionale Direttori Finanziari | <a href=\"www.andaf.it\">www.andaf.it</a><br/>- Associazione Credit Managers Italia | <a href=\"www.acmi.it\">www.acmi.it</a><br/>- Associazione Italiana Tesorieri d’Impresa | <a href=\"www.aiti.it\">www.aiti.it</a><br/>- Associazione Italiana delle Imprese Cosmetiche | <a href=\"www.cosmeticaitalia.org\">www.cosmeticaitalia.org</a><br/>- Academy ASK | <a href=\"www.academyaskadvisory.it\">www.academyaskadvisory.it</a>",
+    "thirdParagraph": "The training activities organized by Lexant are characterized by a high specialization and offer timely and targeted updates on all the most relevant issues in the legal, tax and commercial fields.",
+    "button": "DOWNLOAD THE COURSES CATALOG"
+  },
+  "REALESTATE": {
+    "title": "REAL ESTATE",
+    "firstParagraph": "<span class=\"lxnt_color\"> The firm </span> is active in the management of real estate assets and in sector investments, making available to customers a team of professionals able to follow every type of operation and to prepare all contracts sector.",
+    "secondParagraph": "<span class=\"lxnt_color\"> Lexant </span> supports customers in negotiating and finalizing transactions, taking care of all aspects that need competent and complete assistance."
+  },
+  "NETWORK": {
+    "title": "THE NETWORK",
+    "body": "Lexant supports many associations and promotes their activities contributing to the realisation of projects with a wide territorial scope, such as provision of training courses and participating in events, seminars and workshops.",
+    "associazioni": "Associations",
+    "partners": "Partners"
+  },
+  "BREADCRUMBS": {
+    "STUDIO_LEGALE_LEXANT": "THE FIRM",
+    "IL_TEAM": "THE TEAM",
+    "IL_NETWORK": "THE NETWORK",
+    "CONSULENZA": "CONSULTING",
+    "COMPLIANCE_AZIENDALE": "BUSINESS COMPLIANCE",
+    "TAX_ADVISORY_SERVICE": "TAX ADVISORY SERVICE",
+    "CREDIT_MANAGEMENT": "CREDIT MANAGEMENT",
+    "INTERNAZIONALIZZAZIONE": "INTERNATIONALIZATION",
+    "CERTIFICAZIONE_DEI_PROCESSI_AZIENDALI": "CERTIFICATION OF COMPANY PROCESSES",
+    "FORMAZIONE": "TRAINING",
+    "REAL_ESTATE": "REAL ESTATE",
+    "GERMAN_DESK": "GERMAN DESK",
+    "DISCIPLINE_LEGALI": "LEGAL AREAS",
+    "PUBBLICAZIONI": "PUBLICATIONS",
+    "CLUB_LEXANT": "CLUB LEXANT",
+    "CONTATTI": "CONTACTS",
+    "PER_SAPERNE_DI_PIU": "TO KNOW MORE",
+    "SO_DISTANT_SO_CLOSE": "SO DISTANT SO CLOSE",
+    "NEWS_E_EVENTI": "NEWS AND EVENTS",
+    "NEWS_E_EVENTI_ARCHIVIO": "NEWS AND EVENTS ARCHIVE",
+    "HOME": "HOME",
+    "INFORMATIVA_COOKIE_POLICY": "COOKIE POLICY INFORMATION",
+    "PRIVACY": "PRIVACY",
+    "RESPONSIBILITY": "RESPONSIBILITY",
+    "RESPONSIBILITY-ARCHIVIO": "RESPONSIBILITY-ARCHIVIO",
+    "DIRITTO_BANCARIO_ASSICURATIVO_FINANZIARIO": "BANKING, INSURANCE AND FINANCE LAW",
+    "DIRITTO_COMMERCIALE_SOCIETARIO": "COMMERCIAL AND CORPORATE LAW",
+    "DIRITTO_LAVORO": "LABOR LAW",
+    "DIRITTO_SPORTIVO": "SPORTS LAW",
+    "DIRITTO_AMMINISTRATIVO": "ADMINISTRATIVE LAW",
+    "DIRITTO_FALLIMENTARE_RISTRUTTURAZIONI": "BANKRUPTCY LAW AND CORPORATE RESTRUCTURING ",
+    "DIRITTO_PENALE_ECONOMICO": "ECONOMIC CRIMINAL LAW",
+    "DIRITTO_TRIBUTARIO": "TAX LAW",
+    "DIRITTO_FAMIGLIA_SUCCESSIONI": "FAMILY AND SUCCESSION LAW ",
+    "DIRITTO_INFORMATICA": "INFORMATION TECHNOLOGY LAW",
+    "CONTRATTUALISTICA_NAZIONALE_INTERNAZIONALE": "NATIONAL AND INTERNATIONAL CONTRACTS",
+    "CONTENZIOSO_ARBITRATO": "LITIGATION AND ARBITRATION",
+    "ARCHIVIO": "ARCHIVIO"
+  },
+  "COOKIES": {
+    "AcceptancePartOne": "We use cookies to ensure you have the best experience on our site. This site uses cookies, including third parties, to send you personalized promotional messages. <br/> To learn more, learn about the cookies used by the site and possibly disable them, access the",
+    "routerlink": "Cookie Policy",
+    "AcceptancePartTwo": "<br/> If you continue browsing this site, you consent to the use of cookies.",
+    "title": "COOKIES",
+    "firstParagraph": "<div class='lxnt_color'> What they are </div> Cookies are small text files stored on the user's computer or mobile device when they visit our website.",
+    "secondParagraph": "<div class='lxnt_color'> What they are used for </div> Cookies are used by us to ensure that the user has the best experience on our site. \nThis site uses cookies, including from third parties, to send personalized promotional messages.",
+    "thirdParagraph": "<div class='lxnt_color'> Types of cookies </div> Cookies are categorized as follows. <br/> Session cookies. \nCookies automatically deleted when the user closes the browser. <br/> Persistent cookies. \nCookies that remain stored in the user's device until a certain termination date is reached (in terms of minutes, days or years from the creation / update of the cookie). <br/> Third-party cookies. \nCookies stored on behalf of third parties. <br/> It is possible to check and delete individual cookies using the settings of most browsers. \nThis, however, may prevent you from properly using some features of our website. <br/> For more information, please refer to <a class='lxnt_color' href='www.aboutcookies.org> www.aboutcookies.org \n</a> or <a class='lxnt_color' href='www.allaboutcookies.org'> www.allaboutcookies.org </a>.",
+    "fourthParagraph": "To change the configuration:",
+    "fifthParagraph": "Google Chrome: <a class='lxnt_color' href='https://support.google.com/accounts/answer/32050?hl=it'>https://support.google.com/answer/32050</a><br/>Mozilla Firefox: <a class='lxnt_color' href='https://support.mozilla.org/it/kb/Gestione%20dei%20cookie'>https://support.mozilla.org/it/gestione-dei-cookie</a><br/>Internet Explorer: <a class='lxnt_color' href='http://windows.microsoft.com/it-IT/internet-explorer/delete-manage-cookies#ie=ie-11'>http://windows.microsoft.com/it-IT/internet-explorer/delete-manage-cookies#ie=ie-11</a><br/>Apple Safari: <a class='lxnt_color' href='https://support.apple.com/it-it/HT201265'>https://support.apple.com/it-it/HT201265</a>"
+  },
+  "PRIVACY": {
+    "title": "PRIVACY",
+    "titolare_del_trattamento": "HOLDER OF THE TREATMENT",
+    "sede_legale": "REGISTERED OFFICE",
+    "indirizzo_mail": "EMAIL ADDRESS",
+    "firstParagraph": "<div class='text-center lxnt_color'> COMMITMENT </div> The Law Firm ARNALDI CAIMMI & ASSOCIATI, in <u> QUALITY OF HOLDER OF THE DATA PROCESSING </u> with all its partners undertakes to protect your Privacy and all data that are shared in accordance with current European and Italian regulations. This Privacy Policy aims to describe in a comprehensive and clear way how ARNALDI CAIMMI & ASSOCIATI is authorized to collect, use and share information, with particular attention also to the use of our site and the IT systems used to support of our activity carried out directly or in combination with other methods such as, for example, website, e-mail, communications, links to social network sites.",
+    "secondParagraph": "<div class='text-center lxnt_color'> APPLICATION </div> This Privacy Policy does not apply specifically to that information that is provided in the context of the specific lawyer / client relationship or to all that information which by its nature is protected by the principles of confidentiality based on the applicable rules and in the specific professional relationship between the lawyer and the client.",
+    "thirdParagraph": "<div class='text-center lxnt_color'> INFORMATION COLLECTED </div> The information and data collected concern exclusively the data necessary to carry out the assignment unless we are deliberately provided, such as, for example, some parts of the our website, such as the \"Learn more\" page, which allow us to provide personal information on a voluntary basis, including name, e-mail address, and any further information. Likewise, your contact details can be added to our client's notice mailing lists or contacts when you provide contact details to one of our lawyers.",
+    "fourthParagraph": "<div class='text-center lxnt_color'> STORAGE PERIOD OF PERSONAL DATA </div> The Studio ARNALDI CAIMMI & ASSOCIATI stores your data only for the period necessary for the fulfillment of legal, contractual and / or regulatory obligations or of law. The retention period of the information depends on the purpose for which the data are processed and on the tools with which this information is processed. The criteria used to define the retention period are the time required to achieve the related purpose, the time required to complete the contractual relationship, the time required by the applicable laws on the matter. <br/> At the end of the envisaged retention period, the data will be deleted or destroyed safely where possible. Consistent with our existing data retention policies and applicable legal requirements, in the event that you are no longer a customer of our firm, we will take care of deleting, returning or anonymizing your personal data, except in cases where we are required to keep such data pursuant to applicable law or for professional liability reasons.",
+    "fifthParagraph": "<div class='text-center lxnt_color'>LICEIT&Agrave; DEL TRATTAMENTO</div>The processing of personal, sensitive or judicial data is based on the principles of lawfulness, correctness and transparency; purpose limitation; data minimization; accuracy; limitation of storage; integrity and confidentiality and takes place in compliance with rights, fundamental freedoms and the dignity of individuals.",
+    "sixthParagraph": "<div class='text-center lxnt_color'> STORAGE PERIOD OF PERSONAL DATA </div> The ARNALDI CAIMMI & ASSOCIATI Law Firm retains the data for the period necessary for the fulfillment of legal, contractual and / or regulatory obligations. The retention period of the information depends on the purpose for which the data are processed and on the tools with which this information is processed. The criteria used to define the retention period are the time necessary to achieve the related purpose, the time required to complete the contractual relationship, the time required by applicable laws. At the end of the expected retention period, the data will be deleted or destroyed safely where possible, or made anonymous.",
+    "firstPointTitle": "A) TYPE OF DATA PROCESSED, PURPOSE AND LEGAL BASIS OF THE PROCESSING",
+    "firstPointDescOne": "The personal, particular (sensitive and judicial) data provided to our Company also through different forms and methods such as forms, or forms prepared ad hoc, will be processed for all obligations related to the requests that will be made by you and for the consequent management of the working relationship. established as well as for the pursuit of the aims and purposes envisaged by the request for professional or contractual relationship established. The data provided may also be processed for the following purposes:",
+    "firstPointList": "<ol> <li> payment management and any default (debt collection and litigation); </li> <li> ascertain, exercise or defend our right in court; </li> <li> fulfillment of legal obligations , tax or accounting legislation (e.g. invoicing); </li> <li> being able to produce relevant documents or information relating to litigation, arbitration, mediation, award, governmental or internal investigation, or other legal or administrative proceedings; < / li> <li> any internal organizational needs; </li> <li> support any activities to combat fraud or illegal activities; </li> <li> other activities permitted by law. </li> </ol>",
+    "firstPointDescTwo": "Some personal data may be collected and provided by you on a voluntary basis such as, for example, signing up for a mailing list or for registering for an event or for obtaining information and therefore are collected and used only with your consent.",
+    "secondPointTitle": "B) OBLIGATORY DATA SUPPLY",
+    "secondPointDescOne": "The data provided may also be processed for the following purposes:",
+    "secondPointList": "<ol type='a'> <li> management of payments and possible default (debt collection and litigation); </li> <li> ascertain, exercise or defend our right in court; </li> <li> fulfillment of legal obligations, tax or accounting regulations (for example invoicing); </li> </ol>",
+    "secondPointDescTwo": "The <span class='lxnt_color'> data will not be disclosed </span> to unknown subjects. On the other hand, if the communication is necessary and / or functional to the conduct of our business, it may be communicated, in ways and for the purposes described above, to external subjects, who carry out processing activities as autonomous owners or as managers , belonging to the following categories:",
+    "secondPointListTwo": "<ol type='a'> <li> companies connected to us for operational reasons, administrative, labor, tax, legal and notarial consultancy companies for legal obligations or to ascertain, exercise or defend our right in court; </li> <li> IT service providers; </li> <li> public and private bodies, also following inspections, checks, management, for compliance with legal obligations and / or provisions of public bodies (e.g. financial administration, police, judicial authorities). </li> </ol>",
+    "thirdPointTitle": "C) ADDRESSEES AND SUBJECTS AUTHORIZED TO TREATMENT",
+    "thirdPointDescOne": "The third parties who process data on behalf of our study as DATA CONTROLLER have been adequately selected and assessed and are endowed with experience, ability and reliability offering an appropriate guarantee in full compliance with the current treatment provisions, including the data security profile. These subjects have been, as required by the European regulation and by national decrees, formally appointed through a specific contract or legal act in accordance with national law as data controllers pursuant to art.28 of the European Regulation and are subject to contractual and regulatory obligations for the purpose to maintain and guarantee the confidentiality of the data.",
+    "thirdPointDescTwo": "Our organization periodically carries out a check in such a way as to guarantee that all the external RESPONSIBLE have promptly fulfilled the tasks entrusted to them and that they continue to provide adequate guarantees of full compliance with the provisions on the protection of personal, sensitive or judicial data. Furthermore, they will only have access to the information necessary for the performance of their functions.",
+    "thirdPointDescThree": "The data may also be communicated to additional external companies, always formally appointed with a specific act as data processors for the provision of support services that involve the processing of the data, such as for example legal services and credit recovery, management and maintenance of the systems IT and databases that include data of the interested parties, administrative and accounting services, assistance services.",
+    "thirdPointDescFour": "A list of these controllers is always available and available at our office by sending an email to <a href='mailto:privacy@lexant.it' class='lxnt_color'> privacy@lexant.it </a> .Particularly authorized employees and collaborators of the Data Controller may also know and process the data, each within the limits of the functions and duties performed and according to the instructions indicated in the designation act.",
+    "fourthPointTitle": "D) DATA PROTECTION AND SECURITY",
+    "fourthPointDescOne": "Your personal data will be processed with automated, semi-automated tools in compliance with the principle of necessity and proportionality, avoiding the processing of personal data if the operations can be carried out through the use of anonymous data or through other methods that make the treatment safer . Our organization has adopted specific security measures to prevent the loss of personal data, illicit or incorrect use and unauthorized access but please do not forget that it is essential for the security of your data that your device is equipped with destructions such as antivirus constantly updated and that the provider that provides you with the Internet connection ensures the secure transmission of data through firewalls, spam filters and analoguesresidi.",
+    "fifthPointTitle": "E) YOUR RIGHTS",
+    "fifthPointDescOne": "By contacting the owner by e-mail at the address <a href='privacy@lexant.it' class='lxnt_color'>privacy@lexant.it</a>",
+    "fifthPointList": "<ol> <li> access to data concerning you, </li> <li> their cancellation, </li> <li> the correction of any inaccurate data, </li> <li> the integration incomplete data, </li> <li> the limitation of the processing, </li> <li> the portability as well as the opposition to the processing in the hypotheses of legitimate interest of the Owner. </li> </ol>",
+    "fifthPointDescTwo": "In addition, you also have the right to lodge a complaint with the competent supervisory authority in the Member State where you habitually reside or work or in the State where the alleged violation occurred.",
+    "sixthPointTitle": "F) CONSENT AND POSSIBLE REVOCATION",
+    "sixthPointDescOne": "You can, at any time, revoke the consent given. You can withdraw your consent at any time for the purposes of processing your sensitive / judicial data or for marketing purposes through the methods provided or directly by sending an email to the address privacy@lexant.it. Any revocation will in no way affect the lawfulness of the treatment based on the consent given before the revocation of the same.",
+    "septhPointTitle": "G) TRANSFER OF DATA ABROAD",
+    "septhPointDescOne": "During our professional legal assistance services, the Firm may have to transfer your personal data to non-EU states. Any transfer of this type will in any case be carried out in compliance with what is required and prescribed by European and national regulations.",
+    "eigthPointTitle": "H)VALIDITY AND UPDATE",
+    "eigthPointDescOne": "This document is in Rev. 01 and is valid from 8 April 2019 and is subject to at least half-yearly periodic verification."
+  },
+  "RESPONSIBILITY": {
+    "title": "RESPONSIBILITY",
+    "firstParagraph": "The strength and ability of our firm rests on the quality of its team, with a great sense of humanity, ethics and strong values of the people who are part of it.  Thanks to their commitment and passion, we are able to take a look around us and pay attention to the demands of those who are less fortunate in life and need a guiding hand. With a humble spirit, Lexant is engaged in a wide range of initiatives and projects, supporting Associations, networks and people of good will, who in turn give us true happiness and light-hearted moments.   ",
+    "discover": "DISCOVER PAST INITIATIVES",
+    "archive": {
+      "title": "ARCHIVIO"
+    }
+  },
+  "DISCIPLINES": {
+    "title": "LEGAL AREAS",
+    "firstParagraph": "Lexant offers legal advice in a wide range of legal matters with a multi-disciplinary and cross-sector approach. Lexant's professionals expertise reflects this approach and is structured in highly specialized divisions organized both vertically (in terms of seniority) and horizontally (by expertise) therefore providing clients with a fully integrated, comprehensive service.",
+    "discover": "DISCOVER",
+    "referent": "THE REFERENT",
+    "division": "OF THE DIVISION"
+  },
+  "DIRITTO_BANCARIO_ASSICURATIVO_FINANZIARIO": {
+    "title": "BANKING, INSURANCE AND FINANCE LAW",
+    "firstParagraph": "Within this field of activity, Lexant deals with assistance in civil liability litigation in respect of contracts, ordinary and landed debt recovery activities, judicial and extrajudicial consultancy in the field of legislation and regulations for factoring companies (Fintech) , insurance companies, banks and securities firms. "
+  },
+  "DIRITTO_COMMERCIALE_SOCIETARIO": {
+    "title": "COMMERCIAL AND CORPORATE LAW",
+    "firstParagraph": "Lexant provides advisory and assistance in the sale and purchase of majority/minority shareholdings, in Italy and abroad, and the transfer of companies and / or business units, including due diligence activities and the drafting and negotiation of contractual agreements connected and / or instrumental to such transactions (ie letters of intent, takeover contracts and shareholder agreements). <br/>Lexant assists and advises its clients in acquisitions, extraordinary finance transactions, private equity and quotations on regulated markets. \nIt offers advice to companies listed on Italian regulated markets and to primary shareholders, with regard to the activities and responsibilities of corporate bodies and corporate governance issues, operations on share capital, preparation of stock-option plans and regulatory compliance."
+  },
+  "DIRITTO_LAVORO": {
+    "title": "LABOR LAW",
+    "firstParagraph": "We are active players in a field where the understanding of new dynamics and criticalities is crucial.  \nThe labour market has been in sustained evolution for years now. The economic crisis and the radical change in the labour markets, as well as more recently the reforms of the Italian regulatory system, require a new approach. There are fewer rules and therefore more possibilities to identify innovative solutions.",
+    "secondParagraph": "Lexant professionals identify new answers and provide specialist expertise on:<br/>Management and solving of labor law issues:",
+    "firstList": "<ul><li>Drafting of employment and/or self-employment contracts</li><li>Drafting of special and/or atypical work contracts (part - time, temporary employment, etc.)</li><li>Drafting of agency agreements, mediation including financial contracts and business procurement contracts</li></ul>",
+    "thirdParagraph": "Strategic, prelegal and extrajudicial management: ",
+    "secondList": "<ul><li>Individual and collective dismissal procedures, crisis management (mobility)</li><li>Temporary redundancy fund procedures</li><li>Assistance in the implementation of other flexible working arrangements</li></ul>",
+    "fourthParagraph": "Employment relations ",
+    "thirdList": "<ul><li>Agency relationships</li><li>Counselling, assistance and management of corporate reorganization process.</li><li>Trade union litigation management (proceedings under Article. 28th SL)</li></ul>",
+    "fifthParagraph": "Consulting, assistance and management of corporate reorganization processes."
+  },
+  "DIRITTO_SPORTIVO": {
+    "title": "SPORTS LAW",
+    "firstParagraph": "Lexant with its expertise works alongside clubs, athletes, teams and federations, to address and solve issues related to the sports world, both amateur and professional. <br/>In particular our professionals are skilled in: contracts, transfers of athletes, doping, protection before the sports justice bodies and ordinary judicial authorities, disciplinary proceedings, national and international arbitration.",
+    "button": "DOWNLOAD THE SPORT COURSES CATALOG"
+  },
+  "DIRITTO_AMMINISTRATIVO": {
+    "title": "ADMINISTRATIVE LAW",
+    "firstParagraph": "Over the years we have developed a significant expertise in administrative law.<br/>The professionals of this division provide assistance and advice to public and private companies, public administrations and joint ventures between public and private entities. ",
+    "secondParagraph": "In particular, Lexant offers assistance in procurement and concessions for public works and services, supply contracts, local public services and municipal entities. The Firm assists its clients in litigation before administrative courts in every degree of judgment, with regard to disputes inherent mainly in these matters."
+  },
+  "DIRITTO_FALLIMENTARE_RISTRUTTURAZIONI": {
+    "title": "BANKRUPTCY LAW AND CORPORATE RESTRUCTURING ",
+    "firstParagraph": "Today, more than ever, firms can be called upon to address crisis not only of financial nature but also structural and organizational. \nFailing to intercept and manage the signals of eventual crisis in good time can lead the company - big or small - to a state of irreversible insolvency. \nWith a view to prevention, Lexant supports companies through the following tools:",
+    "firstList": "- Implementation of management control systems <br/> - Periodic analysis of budgets and performance indices <br/> - Comparison with competing realities (benchmarking) <br/> - Financial analysis, prospective cash flows <br/> -Strategic and directional consulting",
+    "secondParagraph": "With a view to overcoming a liquidity crisis, Lexant supports the company with the following actions: \n",
+    "secondList": "- Support relationships with banks and credit institutions<br/>- Improvement of collection time and payment methods by the customers<br/>- Rationalization of purchases and extension of payment of the suppliers<br/>- Support for the swift achievement of a financial balance",
+    "thirdParagraph": "With a view to overcoming a liquidity crisis, Lexant supports the company with the following actions: ",
+    "thirdList": "- Gestione del “passaggio generazionale”.<br/>- Determinazione delle strategie future e delle risorse da impiegare<br/>- Definizione di una chiara informazione agli organi aziendali<br/>- Miglioramento della comunicazione con gli stakeholders.<br/>- Individuazione e applicazione degli strumenti per il rilancio:",
+    "fourthList": "<ul><li>Recovery plan pursuant to art. 67 of the Bankruptcy Law </li><li>Extraordinary administration pursuant to art. 2, D.L. 347/03 (so-called Marzano law). </li><li>Debt restructuring agreement pursuant to art. 182-bis of the Bankruptcy Law</li><li>Judicial composition with creditors pursuant to art. 160 of the Bankruptcy Law</li><li>Tax transaction pursuant to art. 182-ter of the Bankruptcy Law</li><li>Settlement agreement for the over-indebtedness crisis L. 3/12</li>"
+  },
+  "DIRITTO_PENALE_ECONOMICO": {
+    "title": "ECONOMIC CRIMINAL LAW",
+    "firstParagraph": "The Lexant professionals assist companies, entrepreneurs and managers by providing preventive and procedural assistance in the area of Economic Criminal Law, with particular reference to the criminal implications connected to the crime phenomena associated with economic, commercial, industrial or professional activities. ",
+    "secondParagraph": "In particular, Lexant deals with:",
+    "firstList": "- Criminal-administrative liability Legislative Decree 231/01 <br/> - Corporate and bankruptcy offenses <br/> - Counterfeiting and criminal protection of industrial and intellectual property. <br/> - Offenses against property <br/> - Offenses relating to the environment <br/> - \nCrimes against the Public Administration <br/> - Accidents and protection of safety in the workplace."
+  },
+  "DIRITTO_TRIBUTARIO": {
+    "title": "TAX LAW",
+    "firstParagraph": "A team of tax lawyers and chartered accountants work in Lexant combining innovation and professionalism to identify ad hoc solutions for every type of tax issue presented by the clients.<br/>Our professionals offer extrajudicial and judicial protection, even before the Supreme Court of Cassation, assistance in tax planning and preparation of financial statements - also prepared according to IAS-IFRS accounting standards - in the preparation of appraisals, business and financial plans, as well as in specific assistance in M & A, Due Diligence and management control restructuring operations."
+  },
+  "DIRITTO_FAMIGLIA_SUCCESSIONI": {
+    "title": "FAMILY AND SUCCESSION LAW ",
+    "firstParagraph": "A dedicated Lexant unit deals with all issues related to family law, to the civil law issues relating to the personal relationships and matrimonial property rights of the spouses, to the regulation governing the parent-child relationships.<br/>Over the years, the Firm has devoted close attention to the law of succession and all related issues, gaining a remarkable competence with specific reference to the protection of family assets, inheritance pacts, drafting of wills, declaration of succession, inheritance and estate divisions. "
+  },
+  "DIRITTO_INFORMATICA": {
+    "title": "INFORMATION TECHNOLOGY LAW",
+    "firstParagraph": "It is a growing sector particularly in recent years, in line with the increase in the use of digital tools by individuals, companies and professionals and the increasing computerization of banking and public administration services.<br/>Lexant provides IT consultancy, with reference to development agreements and / or use of digitization programs, software distribution, licensing agreements and / or confidentiality agreements."
+  },
+  "CONTRATTUALISTICA_NAZIONALE_INTERNAZIONALE": {
+    "title": "NATIONAL AND INTERNATIONAL CONTRACTS",
+    "firstParagraph": "Lexant provides advice and assistance in the drafting and negotiation of both national and international contractual acts regarding distribution, provision of goods and services, franchising, procurement, agency, transportation, sponsorship and use and assignment of trademark and other intellectual property rights such as contracts for the use and / or assignment of software licenses and know-how."
+  },
+  "CONTENZIOSO_ARBITRATO": {
+    "title": "LITIGATION AND ARBITRATION",
+    "firstParagraph": "Lexant deals with legal assistance and defence before the courts, in any jurisdiction - ordinary or special - of the State as well as in the national and international arbitration proceedings of disputes in civil, commercial, corporate, banking and financial matters.\nWe follow each phase starting from the preliminary analysis of the controversy, in order to enable the client to make informed choices, also through the evaluation of the cost / benefit ratio of the legal cases compared to out-of-court viable solutions. "
+  },
+  "LAWYER": {
+    "albo": "Register",
+    "lingue": "Languages:",
+    "formazione": "Training:",
+    "activity": "Areas of activity",
+    "seat": "Office:",
+    "discover": "Find out more ..."
+  },
+  "HEADER": {
+    "privateArea": "Customer area"
+  }
+}
