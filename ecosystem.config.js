@@ -26,7 +26,7 @@ module.exports = {
       repo : 'git@github.com:Jhon-rojas/lexant-production.git',
       // "pre-deploy-local" : "git add . && git commit -a -m 'commit' && git push",
       path : '/var/www/production',
-      // 'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production'
+      'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production'
     }
   }
 };
