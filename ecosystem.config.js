@@ -19,13 +19,13 @@ module.exports = {
 
   deploy : {
     production : {
-      key: "/Users/jhonrojas/ssh/id_rsa.pub",
+      key: "~/.ssh/id_rsa.pub",
       user : 'root',
       host : '80.211.131.29',
       ref  : 'origin/master',
-      repo : 'git@github.com:repo.git',
-      "path" : '/var/www/html/new-lexant/server-lexant',
-      'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production'
+      repo : 'git@github.com:Jhon-rojas/lexant-production.git',
+      path : '/var/www/production',
+      // 'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production'
     }
   }
 };
