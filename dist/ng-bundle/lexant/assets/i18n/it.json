@@ -1,0 +1,1014 @@
+{
+  "ROUTES": {
+    "lo-studio": "lo-studio",
+    "consulenza-servizi-per-le-imprese": "consulenza-servizi-per-le-imprese",
+    "discipline-legali": "discipline-legali",
+    "pubblicazioni": "pubblicazioni",
+    "scopri-dove-trovarci": "scopri-dove-trovarci",
+    "news-eventi": "news-eventi",
+    "news-eventi-archivio": "news-eventi-archivio",
+    "il-team": "il-team",
+    "lawyer": "lawyer",
+    "partner": "partner",
+    "senior-associate": "senior-associate",
+    "associate": "associate",
+    "il-network": "il-network",
+    "diritto-bancario-assicurativo-e-finanziario": "diritto-bancario-assicurativo-e-finanziario",
+    "diritto-commerciale-e-societario": "diritto-commerciale-e-societario",
+    "diritto-del-lavoro": "diritto-del-lavoro",
+    "diritto-sportivo": "diritto-sportivo",
+    "diritto-amministrativo": "diritto-amministrativo",
+    "diritto-fallimentare-e-ristrutturazioni-societarie": "diritto-fallimentare-e-ristrutturazioni-societarie",
+    "diritto-penale-economico": "diritto-penale-economico",
+    "diritto-tributario": "diritto-tributario",
+    "diritto-di-famiglia-e-successioni": "diritto-di-famiglia-e-successioni",
+    "diritto-dell-informatica": "diritto-dell-informatica",
+    "contrattualistica-nazionale-e-internazionale": "contrattualistica-nazionale-e-internazionale",
+    "contenzioso-e-arbitrato": "contenzioso-e-arbitrato",
+    "pubblicazioni-archivio": "pubblicazioni-archivio",
+    "club-lexant-archivio": "club-lexant-archivio",
+    "responsibility": "responsibilita",
+    "responsibility-archivio": "responsibilità-archivio"
+  },
+  "SEO": {
+    "home": {
+      "title": "Avvocato Milano - Lexant studio legale Milano",
+      "description": "Avvocati iscritti all'Ordine degli Avvocati di Milano, studio legale a Milano, Torino, Verona, Roma"
+    },
+    "lo-studio": {
+      "title": "Avvocato Milano - Lexant studio legale Milano",
+      "description": "Un team di 40 professionisti tra avvocati e fiscalisti - quattro sedi in Italia - Milano - Torino - Roma - Verona"
+    },
+    "consulenza-servizi-per-le-imprese": {
+      "title": "",
+      "description": ""
+    },
+    "discipline-legali": {
+      "title": "",
+      "description": ""
+    },
+    "pubblicazioni": {
+      "title": "",
+      "description": ""
+    },
+    "scopri-dove-trovarci": {
+      "title": "",
+      "description": ""
+    },
+    "news-eventi": {
+      "title": "",
+      "description": ""
+    },
+    "news-eventi-archivio": {
+      "title": "",
+      "description": ""
+    },
+    "il-team": {
+      "title": "Avvocato - Studio Legale - Milano - Torino - Verona - Roma",
+      "description": "Quatro sedi in Italia - Milano - Torino - Roma - Verona"
+    },
+    "partner": {
+      "title": "",
+      "description": ""
+    },
+    "senior-associate": {
+      "title": "",
+      "description": ""
+    },
+    "associate": {
+      "title": "",
+      "description": ""
+    },
+    "il-network": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-bancario-assicurativo-e-finanziario": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-commerciale-e-societario": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-del-lavoro": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-sportivo": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-amministrativo": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-fallimentare-e-ristrutturazioni-societarie": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-penale-economico": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-tributario": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-di-famiglia-e-successioni": {
+      "title": "",
+      "description": ""
+    },
+    "diritto-dell-informatica": {
+      "title": "",
+      "description": ""
+    },
+    "contrattualistica-nazionale-e-internazionale": {
+      "title": "",
+      "description": ""
+    },
+    "contenzioso-e-arbitrato": {
+      "title": "",
+      "description": ""
+    },
+    "pubblicazioni-archivio": {
+      "title": "",
+      "description": ""
+    },
+    "club-lexant": {
+      "title": "",
+      "description": ""
+    },
+    "club-lexant-archivio": {
+      "title": "",
+      "description": ""
+    },
+    "responsibility": {
+      "title": "",
+      "description": ""
+    },
+    "responsibility-archivio": {
+      "title": "",
+      "description": ""
+    },
+    "compliance-aziendale": {
+      "title": "",
+      "description": ""
+    },
+    "credit-management": {
+      "title": "",
+      "description": ""
+    },
+    "internazionalizzazione": {
+      "title": "",
+      "description": ""
+    },
+    "certificazione-dei-processi-aziendali": {
+      "title": "",
+      "description": ""
+    },
+    "formazione": {
+      "title": "",
+      "description": ""
+    },
+    "real-estate": {
+      "title": "",
+      "description": ""
+    },
+    "german-desk": {
+      "title": "",
+      "description": ""
+    },
+    "per-saperne-di-piu": {
+      "title": "",
+      "description": ""
+    }
+  },
+  "HOME": {
+    "milan": "MILANO",
+    "turin": "TORINO",
+    "verona": "VERONA",
+    "rome": "ROMA",
+    "team": "IL TEAM",
+    "consulting": "CONSULENZA",
+    "business": "E SERVIZI",
+    "services": "PER LE IMPRESE",
+    "legal": "DISCIPLINE",
+    "areas": "LEGALI",
+    "contacts": "CONTATTI",
+    "news": "NEWS",
+    "events": "EVENTI"
+  },
+  "STUDIO": {
+    "title": "Lexant Studio legale",
+    "body1": "Nel percorso tracciato negli anni, lo Studio Legale Arnaldi Caimmi e Associati, fondato e diretto dagli avvocati Anna Caimmi e Andrea Davide Arnaldi, si rinnova, con una nuova identità e un nuovo nome: Lexant.<br>Due soci fondatori, un team di 40 professionisti tra avvocati e fiscalisti, quattro sedi in Italia, un portafoglio clienti, fedelissimi – composto da multinazionali e PMI operanti in ogni industry – e una serie di servizi innovativi: questa in sintesi la fotografia di Lexant.<br>La professione forense in continua evoluzione, il lavoro quotidiano a fianco dei clienti e la duttilità dello Studio, che ben si sposa con le dinamiche dei mercati, hanno contribuito significativamente a indicare il percorso di rinnovamento.",
+    "body2": "L'itinerario evolutivo di SLACC prima e di Lexant ora è stato tracciato nella modernità del modello organizzativo dello Studio, assolutamente senza eguali, nella competenza settoriale e nella conquista della fiducia della clientela. <br>Lo Studio, inteso come l’intera organizzazione, è il protagonista e il garante della qualità professionale dei professionisti che ne fanno parte: persone complete e versatili che mettono a disposizione le proprie competenze in diverse aree di attività, sia in ambito giudiziale che stragiudiziale, con la capacità di porre, in ogni tematica giuridica affrontata, un’attenta visione, specifica e al contempo d'insieme. <br>La funzione complessiva dell'organizzazione dello Studio è sempre maggiore – e migliore – della somma delle singole prestazioni, ma nasce dal contributo, libero e professionale, di ogni persona che ne fa parte. Per questo lo Studio ha trovato nel marchio Lexant un’identità così calzante rispetto a quello che è.",
+    "body3": "Forza, attività coscienziosa e lavoro, volontà di sacrificio, forza intelligenza collettiva, spirito di squadra, competenza tecnica, capacità, efficienza organizzativa, rappresentano i valori di Lexant.<br>Il suo successo non è quindi misurabile solo in base ai criteri tipici della comunità legale - numero di avvocati, studi, fatturato - ma è soprattutto quantificabile nella sua mentalità innovativa.<br>Lexant ascolta, comprende e si fa capire: una semplice modalità operativa, in alcuni aspetti coraggiosi e sicuramente in linea con la sua nuova identità."
+  },
+  "TEAM": {
+    "title": "IL TEAM",
+    "partner_title": "PARTNER",
+    "seniors_title": "SENIOR ASSOCIATE",
+    "associate_title": "ASSOCIATE",
+    "collaborator_title": "COLLABORATORI",
+    "counsel_title": "OF COUNSEL",
+    "PARTNER": [
+      {
+        "path": "partner/andrea-davide-arnaldi",
+        "type": "PARTNER",
+        "name": "Avv. Andrea Davide Arnaldi",
+        "albo": "Avvocati Milano, 2001",
+        "birth": "Nato a Milano (MI), 9 luglio 1970.",
+        "languages": "italiano, inglese",
+        "training": "Laurea in Giurisprudenza, Università Cattolica Sacro Cuore di Milano, 1996.",
+        "activity": "Assistenza e consulenza legale nei progetti industriali di investimento nei mercati esteri; fusioni ed incorporazioni, diritto del trasporto nazionale ed internazionale, contrattualistica e contenzioso in materia di agenzia; diritto commerciale, diritto fallimentare.",
+        "email": "andrea.arnaldi@lexant.it",
+        "seat": "Milano",
+        "img": "assets/images/lawyer/arnaldi.png"
+      },
+      {
+        "path": "partner/anna-caimmi",
+        "type": "PARTNER",
+        "name": "Avv. Anna Caimmi",
+        "albo": "Avvocati Milano, 1996",
+        "birth": "Nata a Milano (MI), 4 aprile 1968.",
+        "languages": "italiano, tedesco, inglese, francese",
+        "training": "Laurea in Giurisprudenza Università Statale di Milano, 1992. Tesi di laurea in filosofia del diritto titolo il concetto di rule of law nei sistemi di common law.",
+        "activity": "diritto internazionale privato e processuale, consulenza e contenzioso in materia giuslavoristica, diritto della famiglia, diritto amministrativo, diritto societario e commerciale, diritto fallimentare, contrattualistica.",
+        "email": "anna.caimmi@lexant.it",
+        "seat": "Milano",
+        "img": "assets/images/lawyer/caimmi.png"
+      }
+    ],
+    "SENIOR": [
+      {
+        "path": "senior-associate/nicola-traverso",
+        "type": "SENIOR ASSOCIATE",
+        "name": "Avv. Nicola Traverso",
+        "albo": "Avvocati Milano, 2013",
+        "birth": "Nato a Schio (VI), 2 Novembre 1984",
+        "languages": "Italiano, Inglese, Francese, Tedesco",
+        "training": "Laurea in Giurisprudenza, Università di Bologna, 2009. Tesi in Logica e argomentazione giuridica.",
+        "activity": "Diritto civile, diritto sportivo, diritto tributario.",
+        "email": "nicola.traverso@lexant.it",
+        "seat": "Milano",
+        "img": "assets/images/lawyer/traverso.png"
+      },
+      {
+        "path": "senior-associate/simona-cardillo",
+        "type": "SENIOR ASSOCIATE",
+        "name": "Avv. Simona Cardillo",
+        "albo": "Avvocati Milano, 2010",
+        "birth": "Nata a Borgomanero (NO), 8 ottobre 1982",
+        "languages": "italiano, inglese.",
+        "training": "Laurea in Giurisprudenza, Università di Milano 2006. Tesi in Diritto dell’Unione Europea.",
+        "activity": "Diritto civile, contrattualistica nazionale e internazionale, privacy.",
+        "email": "simona.cardillo@lexant.it",
+        "seat": "Milano",
+        "img": "assets/images/lawyer/cardillo.png"
+      }
+    ],
+    "ASSOCIATE": [
+      {
+        "path": "associate/enrico-morello",
+        "type": "ASSOCIATE",
+        "name": "Avv. Enrico Morello",
+        "albo": "Avvocati Milano, 2017",
+        "birth": "Nato a Castelfranco Veneto (TV), 1 Febbraio 1985",
+        "languages": "italiano, inglese e spagnolo",
+        "training": "Laurea Magistrale in Giurisprudenza, percorso Europeo e Transnazionale, Università degli Studi di Trento. Tesi in Diritto penale dell’informatica.",
+        "activity": "Diritto civile, diritto dell'informatica.",
+        "email": "enrico.morello@lexant.it",
+        "seat": "Milano",
+        "img": "assets/images/lawyer/morello.png"
+      },
+      {
+        "path": "associate/carmela-prencipe",
+        "type": "ASSOCIATE",
+        "name": "Avv. Carmela Prencipe",
+        "albo": "Avvocati Milano, 2017",
+        "birth": "Nata a Manfredonia (FG), 27 Settembre 1986",
+        "languages": "italiano, inglese",
+        "training": "Laurea Magistrale in Giurisprudenza - Diritto dell'impresa, Università Cattolica del Sacro Cuore di Milano, 29.4.2011 Tesi in Diritto penale commerciale",
+        "activity": "Diritto Civile, Diritto Bancario",
+        "email": "carmela.prencipe@lexant.it",
+        "seat": "Milano",
+        "img": "assets/images/lawyer/prencipe.png"
+      },
+      {
+        "path": "associate/gianmaria-albano",
+        "type": "ASSOCIATE",
+        "name": "Avv. Gianmaria Albano",
+        "albo": "Avvocati Milano Gennaio 2012",
+        "birth": "Nato a Potenza (PZ), 25 Settembre 1980",
+        "languages": "italiano, inglese",
+        "training": "Laurea in Giurisprudenza, Università Cattolica del Sacro Cuore di Milano, luglio 2007, Tesi in Diritto Processuale Penale, relatore Prof. Angelo Giarda",
+        "activity": "Diritto civile, diritto fallimentare, contenzioso e arbitrato",
+        "email": "gianmaria.albano@lexant.it",
+        "seat": "Milano",
+        "img": "assets/images/lawyer/albano.png"
+      },
+      {
+        "path": "associate/francesca-bello",
+        "type": "ASSOCIATE",
+        "name": "Avv. Francesca Bello",
+        "albo": "Avvocati Lecce, 2010",
+        "birth": "Nata a Gagliano del Capo (LE), 18 Maggio 1982",
+        "languages": "italiano, inglese",
+        "training": "Laurea in Giurisprudenza, Università di Bologna 2007 Tesi in Diritto del Lavoro – Diritto dei Trasporti in correlazione con Diritto Amministrativo",
+        "activity": "Diritto civile, diritto penale",
+        "email": "francesca.bello@lexant.it",
+        "seat": "Milano",
+        "img": "assets/images/lawyer/bello.png"
+      },
+      {
+        "path": "associate/cristina-pantaleo",
+        "type": "ASSOCIATE",
+        "name": "Avv. Cristina Pantaleo",
+        "albo": "",
+        "birth": "Nata a Torino (TO), 18 Ottobre 1978",
+        "languages": "italiano, inglese",
+        "training": "Laurea in Giurisprudenza, Università di Torino 2004, Tesi in Procedura Penale.",
+        "activity": "diritto civile, diritto societario, contrattualistica per società ed enti.",
+        "email": "cristina.pantaleo@lexant.it",
+        "seat": "Torino",
+        "img": "assets/images/lawyer/pantaleo.jpg"
+      }
+    ],
+    "COLLABS": [
+      {
+        "name": "Avv. Gianluca Zucco",
+        "albo": "",
+        "birth": "Nato a Milano, 7 Febbraio 1982",
+        "languages": "italiano, inglese, spagnolo.",
+        "training": "Laurea Magistrale in Giurisprudenza, indirizzo in Diritto D'Impresa. <br> Università degli Studi di Milano. <br> Tesi in Diritto delle Assicurazioni",
+        "activity": "Diritto Civile, Diritto Bancario e Finanziario ",
+        "email": "gianluca.zucco@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Avv. Fabiana Montefusco",
+        "albo": "",
+        "birth": "Nata a Napoli (NA) il 17.03.1987",
+        "languages": "italiano, inglese.",
+        "training": "Laurea Magistrale in Giurisprudenza <br> Università degli Studi di Napoli Federico II <br> Tesi in Diritto amministrativo ",
+        "activity": "diritto civile, diritto bancario e finanziario ",
+        "email": "fabiana.montefusco@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Avv. Marco Pescatore",
+        "albo": "",
+        "birth": "Nato a Grottaglie (TA) il 7.02.1986",
+        "languages": "Italiano, Inglese.",
+        "training": "Laurea Magistrale in Giurisprudenza <br> Tesi in Economia e diritto della Concorrenza <br> Diritto civile, Diritto bancario, Diritto fallimentare, Gestione del credito",
+        "activity": "diritto civile, diritto bancario e finanziario ",
+        "email": "marco.pescatore@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Avv. Valentina Fariello",
+        "albo": "",
+        "birth": "Nata a Napoli (NA) il 11.03.1986",
+        "languages": "Italiano, Inglese.",
+        "training": "Laurea Magistrale in Giurisprudenza <br> Università degli Studi di Napoli Federico II <br> Tesi in Istituzioni di diritto romano",
+        "activity": "diritto civile, diritto bancario e finanziario",
+        "email": "valentina.fariello@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Avv. Andrea Mileto",
+        "albo": "",
+        "birth": "Nato a Verona il 17.06.1990",
+        "languages": "italiano, Spagnolo, Inglese.",
+        "training": "Laurea magistrale a ciclo unico in giurisprudenza. <br> Università degli Studi di Verona, luglio 2015.  <br> Tesi in diritto sportivo. ",
+        "activity": "Diritto Sportivo",
+        "email": "andrea.mileto@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Avv. Simona Graziano",
+        "albo": "",
+        "birth": "Nata a Torino (TO) il 30.12.1973",
+        "languages": "italiano, inglese, francese.",
+        "training": "Laurea in Giurisprudenza, Università di Torino 1998, Tesi in diritto del lavoro.",
+        "activity": "Area di attività: Diritto civile, diritto fallimentare, area contenzioso & credit recovery, diritto dell’esecuzione forzata.",
+        "email": "simona.graziano@lexant.it",
+        "seat": "Sede Torino",
+        "img": ""
+      },
+      {
+        "name": "Avv. Giorgia Maria Barberis",
+        "albo": "",
+        "birth": "Nata a Savigliano (CN) il 13.10.1984",
+        "languages": "italiano, inglese, francese.",
+        "training": "Laurea specialistica in Giurisprudenza, Università di Torino 2008, Tesi in diritto amministrativo. <br> Dottorato presso l'Università di Torino, tesi sulla tutela del lavoro negli appalti pubblici, anni 2014/2017.",
+        "activity": "Area di attività: diritto del lavoro, diritto civile, ausiliario al Dpo in ambito privacy.",
+        "email": "giorgia.barberis@lexant.it",
+        "seat": "Sede Torino",
+        "img": ""
+      },
+      {
+        "name": "Avv. Andrea Fava",
+        "birth": "Nato a Torino, 6 Giugno 1983 ",
+        "languages": "italiano, inglese, spagnolo.",
+        "training": "Laurea Magistrale in Giurisprudenza, indirizzo in Diritto D'Impresa. <br> Università degli Studi di Siena <br> Tesi in Diritto Del Lavoro ",
+        "activity": "Diritto civile, Diritto bancario, Diritto fallimentare, Gestione del credito",
+        "email": "andrea.fava@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Dott. Frank Oltolini",
+        "albo": "",
+        "birth": "Nato a Sesto San Giovanni il 09.12.1991",
+        "languages": "italiano, inglese",
+        "training": "Laurea magistrale a ciclo unico in giurisprudenza. <b> Università degli Studi di Milano, giugno 2017. <br> Tesi in diritto pubblico comparato.",
+        "activity": "Diritto Fallimentare, Gestione del credito.",
+        "email": "frank.oltolini@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Emanuela Mantoan",
+        "albo": "",
+        "birth": "Nata a Giussano (MB) il 11.09.1988",
+        "languages": "italiano, inglese",
+        "training": "Laurea magistrale a ciclo unico in Giurisprudenza. <br> Università degli studi di Milano Bicocca 2014 <br> Tesi in Diritto Costituzionale Europeo.",
+        "activity": "Diritto fallimentare, contenzioso civile, gestione del credito.",
+        "email": "emanuela.mantoan@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Roberta Tortora",
+        "birth": "Nata a Napoli il 08/07/1980",
+        "languages": "italiano, inglese",
+        "training": "Laurea in Giurisprudenza <br> Università degli Studi di Napoli Federico II. <br>Tesi in Economia Politica applicata al Diritto del Lavoro.",
+        "activity": "Area di attività: Diritto fallimentare, Gestione del credito.",
+        "email": "roberta.tortora@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Dott. Francesco Gnazzo",
+        "albo": "",
+        "birth": "Nato a Battipaglia (SA) il 14.02.1993",
+        "languages": "italiano, inglese",
+        "training": "Laurea magistrale a ciclo unico in Giurisprudenza. <br>Tesi in Diritto Fallimentare. ",
+        "activity": "Diritto fallimentare, contezioso civile, gestione del credito.",
+        "email": "francesco.gnazzo@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Dott. Federico Coviello",
+        "albo": "",
+        "birth": "Nato a Benevento (Bn) il 7 Febbraio 1993",
+        "languages": "italiano, inglese",
+        "training": "Laurea magistrale a ciclo unico in Giurisprudenza <br>Università degli studi del Sannio <br> Tesi in Diritto internazionale privato ",
+        "activity": "",
+        "email": "federico.coviello@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Giorgia Panetta",
+        "albo": "",
+        "birth": "Nata a Torino il 05.04.1982",
+        "languages": "Italiano, Inglese, Francese.",
+        "training": "Laurea Triennale in Scienze Giuridiche - Università degli Studi di Torino, Dicembre 2015, Tesi in Diritto Bancario.<br>Laurea Magistrale a ciclo unico in Giurisprudenza - Università degli Studi di Torino, Aprile 2019, Tesi in Diritto Amministrativo.",
+        "activity": "Area di attività: Gestione del credito, Diritto fallimentare, Legge Pinto.",
+        "email": "giorgia.panetta@lexant.it",
+        "seat": "Sede Torino",
+        "img": ""
+      },
+      {
+        "name": "Dott. Davide D’Abronzo",
+        "albo": "",
+        "birth": "Nato a Caserta il 09.11.1989",
+        "languages": "Italiano, inglese, spagnolo",
+        "training": "Laurea magistrale a ciclo unico in Giurisprudenza <br>Università degli Studi di Napoli Federico II.",
+        "activity": "Non Performing Exposures, gestione del credito.",
+        "email": "davide.dabronzo@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Roberta Pietri",
+        "albo": "",
+        "birth": "Nata a Brescia il 23/12/1992",
+        "languages": "Italiano, inglese, francese",
+        "training": "Laurea magistrale a ciclo unico in giurisprudenza - Università degli Studi di Brescia - Tesi in diritto civile ed europeo : “la cessione e la successione nel contratto”",
+        "activity": "Banking and finance, gestione npl.",
+        "email": "roberta.pietri@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Annachiara Censi",
+        "albo": "",
+        "birth": "Nata a Fermo il 17/05/1994",
+        "languages": "Italiano, Inglese, Spagnolo",
+        "training": "Laurea magistrale a ciclo unico in Giurisprudenza presso Università degli Studi di Bologna Alma Mater Studiorum - Tesi in Diritto dei Mercati Finanziari “Principi della finanza islamica e relativa applicazione in contesti giuridici occidentali”",
+        "activity": "Banking and Finance, gestione NPL",
+        "email": "annachiara.censi@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Avv. Mariateresa Varotta",
+        "albo": "",
+        "birth": "Nata a Sant’Agata di Militello (ME) il 07/03/1990",
+        "languages": "Italiano, Inglese, Spagnolo",
+        "training": "Laurea Magistrale in Giurisprudenza presso Università degli Studi di Palermo – Tesi in diritto processuale penale ed europeo “Il principio del ne bis in idem nel diritto interno e nello spazio giuridico europeo”",
+        "activity": "Banking and Finance, gestione NPL",
+        "email": "mariateresa.varotta@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Avv. Giuseppe Smeriglia",
+        "albo": "",
+        "birth": "Nato a Sant’Agata di Militello (ME) il 17.08.1990",
+        "languages": "Italiano, Inglese, Francese",
+        "training": "Laurea magistrale in giurisprudenza presso Università degli Studi di Messina e abilitazione all’esercizio della professione forense. Tesi in Diritto Costituzionale, dal titolo “Principio di collegialità e dissent nell’esperienza del Giudice delle leggi”.",
+        "activity": "Banking and Finance, gestione NPL",
+        "email": "giuseppe.smeriglia@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Dott.ssa Sara Traficante",
+        "albo": "",
+        "birth": "Nata a Milano (MI), il 14 gennaio 1989",
+        "languages": "Italiano, Inglese",
+        "training": "Laurea in giurisprudenza presso Università degli Studi di Milano",
+        "activity": "Banking and Finance, gestione NPL",
+        "email": "sara.trafficante@lexant.it",
+        "seat": "Sede Milano",
+        "img": ""
+      },
+      {
+        "name": "Avv. Diego Quaterni",
+        "albo": "Avvocati Cuneo, 2019",
+        "birth": "Nato a Carmagnola (TO), 4 maggio 1987",
+        "languages": "Italiano, Inglese, Spagnolo",
+        "training": "Laurea in Giurisprudenza, Università degli Studi di Torino. Tesi in diritto di famiglia.",
+        "activity": "diritto civile, diritto amministrativo.",
+        "email": "diego.quaterni@lexant.it",
+        "seat": "Sede Torino",
+        "img": ""
+      }
+    ],
+    "COUNSELS": [
+      {
+        "name": "Avv. Alessandro Manfredini",
+        "albo": "",
+        "birth": "Nato a Milano il 22 Aprile 1945.",
+        "languages": "italiano, inglese, francese.",
+        "training": "",
+        "activity": "diritto tributario, diritto commerciale, corporate finance, quotazioni e dismissioni di borsa, fusioni ed incorporazioni, arbitrato.",
+        "email": "alessandro.manfredini@lexant.it",
+        "seat": "Sede Torino",
+        "img": ""
+      },
+      {
+        "name": "Avv. Roberta Francesca Marinaccio",
+        "albo": "",
+        "birth": "Nata a Milano il 7 febbraio 1964",
+        "languages": "italiano e inglese",
+        "training": "Laurea in Giurisprudenza, Università Statale di Milano, 1991",
+        "activity": "Contenzioso Civile, Diritto del Lavoro.",
+        "email": "roberta.marinaccio@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv. Nicola Vasile",
+        "albo": "",
+        "birth": "Nato a Palermo il 1 Aprile 1960",
+        "languages": "italiano, inglese, francese",
+        "training": "Laurea in Giurisprudenza, Università di Milano 1986, tesi in Diritto Commerciale.<br>1982: Corso Summer Program in American Law organizzato dalla Columbia University di New York in collaborazione con le Università Olandesi di Leyden ed Amsterdam.<br>1983: Corso di Diritto Internazionale Privato organizzato dalla Accademia di Diritto internazionale dell’Aja, presso la Corte di Giustizia dell’Aja.<br>Assistente alla Cattedra di Diritto Commerciale del Prof. Pier Giusto Jaeger dell’Università Statale del Studi di Milano dal 1987 al 1996.",
+        "activity": "Contenzioso giudiziale e Arbitrati, Diritto Civile, Diritto Societario e Commerciale nazionale ed internazionale, Diritto Fallimentare e Assicurativo.",
+        "email": "nicola.vasile@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv. Lucia Flintrop",
+        "albo": "",
+        "birth": "Nata a Bochum (Germania) il 11 Aprile 1970 ",
+        "languages": "italiano, tedesco, inglese",
+        "training": "Laurea in Giurisprudenza, Università Cattolica del S. Cuore di Milano 1995, tesi in Diritto dell’Unione Europea. <br>Scuola di specializzazione in diritto tedesco e degli scambi commerciali fra Italia e Germania, 1996 Università degli Studi di Ferrara",
+        "activity": "Aree di intervento:Diritto Commerciale e Societario nazionale ed internazionale, Contrattualistica, Real Estate, Contenzioso e Arbitrati.",
+        "email": "lucia.flintrop@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv. Corrado Diaco",
+        "albo": "",
+        "birth": "Nato a Somma Vesuviana il 3 aprile 1960 ",
+        "languages": "spagnolo inglese",
+        "training": "Avvocato Cassazionista, Componente della cattedra di diritto civile presso la Facoltà di Giurisprudenza dell’Università degli Studi di Napoli “Parthenope”; Consulente legale di numerose società operanti  a livello nazionale ed internazionale, nei settori pubblici delle forniture sanitarie; Autore di numerose pubblicazioni su riviste e testate scientifiche; diritto amministrativo, appalti pubblici, rapporti e contenzioso con Pubbliche Amministrazioni - TAR e Consiglio di Stato-pre-contenzioso A.N.A.C. concessioni di energia alternativa, edilizia, finanziamenti pubblici.",
+        "activity": "Aree di intervento:Diritto Commerciale e Societario nazionale ed internazionale, Contrattualistica, Real Estate, Contenzioso e Arbitrati.",
+        "email": "corradodiaco@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv. Elio Cocorullo",
+        "albo": "",
+        "birth": "Nato a Napoli il 28 febbraio 1954",
+        "languages": "inglese, tedesco",
+        "training": "Avvocato Cassazionista, Componente il Comitato di indirizzo dell'Offerta Formativa della Università degli Studi di Napoli Parthenope; Presidente della Camera degli Avvocati Tributaristi di Napoli e  della Commissione di diritto tributario dell'Ordine degli Avvocati di Napoli; Docente, nel 2010, della Scuola Superiore dell'Economia e delle Finanze del MEF; Relatore e/o moderatore in numerosi convegni scientifici organizzati dagli Ordini Professionali; Autore di numerose pubblicazioni su riviste e testate scientifiche; Già vicedirettore, presso l'Ufficio Distrettuale delle Imposte Dirette di Padova e Napoli; Già Consigliere giuridico del Sottosegretario di Stato al Ministero del Bilancio e Programmazione Economica.",
+        "activity": "diritto tributario, rapporti e contenzioso con Agenzia delle Entrate e Riscossione, Cassazione Tributaria, diritto societario",
+        "email": "elio.cocorullo@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv. Sabino Di Sibio",
+        "albo": "",
+        "birth": "Nato a Milano il 17.05.1972",
+        "languages": "",
+        "training": "Laurea in Giurisprudenza, Università statale di Milano 1999 - Master in Management,  2000 <br> Tesi: Diritto Penale, concorso di persone nel reato e connivenza non punibile",
+        "activity": "Area di attività: Diritto Penale",
+        "email": "sabino.disibio@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv. Manuela Magistro",
+        "albo": "",
+        "birth": "Nata a Bari il 1 ottobre 1979.",
+        "languages": "italiano, inglese.",
+        "training": "Laurea in Giurisprudenza, Università di Bari aprile 2002; Master in Marketing Management – Business School de Il sole 24 Ore e Università di Parma, 2004; Executive Mater in Contrattualistica d’impresa e diritto internazionale – Business School de Il sole 24 Ore, 2016; Corso di Perfezionamento in Diritto Sportivo e Giustizia Sportiva – Università Statale di Milano, 2018.<br>Cultore della Materia in Diritto Pubblico presso l’Università degli Studi di Bari – Corso di Laurea in Scienze Motorie.<br>Docente Scuola Regionale dello Sport Coni Puglia dal 2008.<br>Componente Corte Federale di Appello F.I.B.I.S. e F.I.K.B.M.S. dal 2019.<br>Componente Commissione Cultura, Spettacolo e Sport dell’Ordine degli Avvocati di Bari.",
+        "activity": "Area di attività: Diritto sportivo.",
+        "email": "",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv. Simone Bongiovanni",
+        "albo": "",
+        "birth": "Nato a Savigliano (CN) il 27.02.1974",
+        "languages": "italiano, inglese, francese.",
+        "training": "Laurea in Giurisprudenza, Università di Torino 2001, Tesi in Diritto Pubblico. <br> Ha partecipato come relatore a convegni illustrativi del GDPR in Milano e Torino ed è coautore del testo “Il vademecum sul regolamento europeo n. 2016/679” pubblicato da Key editore.",
+        "activity": "Area di attività: diritto della privacy. In particolare svolge l’incarico di Data Protection Officer in conformità al GDPR 679/16 per svariate società ed enti pubblici.",
+        "email": "simone.bongiovanni@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv.  Antonio Francesco Morone",
+        "albo": "",
+        "birth": "Nato a Torino il 15.01.1978 ",
+        "languages": "",
+        "training": "Laurea in Giurisprudenza, Università degli Studi di Torino 2001 - Tesi in procedura penale<br>Ha conseguito il Dottorato di ricerca in diritto penale nel 2006 con una tesi su 'La responsabilità da reato degli enti: amministrativa in Italia e penale in Belgio'<br>Presso l'Università degli Studi di Torino è stato assegnista di ricerca ed incaricato come Docente a contratto nella materia del diritto penale.<br>E' altresì autore di numerose pubblicazioni (in particolare nel campo del diritto penale della P.A. e dell'Economia) ed è Direttore della Scuola per la formazione per l'esame di Avvocato dell'Editore Giappichelli",
+        "activity": "Area di attività: Diritto Penale dell'economia",
+        "email": "antonio.morone@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv. Giovanni Luca Annicchino ",
+        "albo": "",
+        "birth": "Nato a Corigliano Calabro (CS) il 27.07.1977 ",
+        "languages": "inglese e francese.",
+        "training": "Laurea in Giurisprudenza, Università di Torino 2004, Tesi in Medicina Legale.<br>Ha conseguito un . in International Crime and Justice presso l'UNICRI e nel 2008 ha svolto uno stage presso l'International Criminal Court a l'Aia in Olanda. ",
+        "activity": "Area di attività: diritto internazionale pubblico e privato, diritto dell'Unione Europea, Diritto Vitivinicolo, contrattualistica internazionale.",
+        "email": "giovanni.annicchino@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv. Costanza Mottino",
+        "albo": "",
+        "birth": "Nata a Biella, il 31.01.1985.",
+        "languages": "",
+        "training": "Laurea in Giurisprudenza, Università degli Studi di Torino 2009 - Tesi in diritto societario.<br>Ha partecipato nel 2011 al Master I livello in Diritto presso la Scuola Litubium, Torino,  nel 2017 al Master “Data Protection” organizzato dal Sole 24 ore ed al  Master Privacy Officer & Consulente Privacy organizzato da Federprivacy ed ancora nel 2019 al master “Auditor/Lead Auditor Iso 27001:2013” organizzato da Bureau Veritas Institute denominato Corso Qualificato CEPAS al registro n. 166.<br>E' altresì coautrice di pubblicazioni riguardanti il Reg Eu 16/679 e svolge attività di formazione su Privacy e diritto del lavoro presso Enti di formazione. Area di attività: Protezione dei dati personali Reg. Eu 16/679",
+        "activity": "",
+        "email": "costanza.mottino@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Dott. Luca Bertoli",
+        "albo": "",
+        "birth": "Nato a Pavia il 22 agosto 1980",
+        "languages": "",
+        "training": "Laurea in Economia e legislazione per l’impresa, Università L. Bocconi di Milano <br> Professore a contratto di Bilancio e di Operazioni Straordinarie all’Università L. Bocconi e professore a contratto di Bilanci Straordinari e Infrannuali all’Università degli Studi di Pavia.<br>Ha maturato esperienza nella predisposizione di perizie di stima di aziende, quote e pacchetti azionari, intangible assets, nella consulenza finanziaria, societaria e fiscale, nella partecipazione a consulenze tecniche in procedimenti giudiziari e arbitrati, nella predisposizione di pareri in materia contabile ed estimativa.<br>Autore di pubblicazioni in materia di operazioni straordinarie, accounting e corporate governance, pubblicati su riviste giuridiche e aziendali.<br>Ha tenuto interventi a convegni, seminari e master<br>Ricopre la carica di componente di Consigli di Amministrazione, di Collegi Sindacali e di Organismi di Vigilanza",
+        "activity": "Consulenza aziendale e fiscale ",
+        "email": "luca.bertoli@lexant.it",
+        "seat": "",
+        "img": ""
+      },
+      {
+        "name": "Avv.  Andrea Gandino",
+        "albo": "",
+        "birth": "Nato a Torino il 16.06.1978",
+        "languages": "Inglese",
+        "training": "Laurea in Giurisprudenza, Università degli Studi di Torino 2002 - Tesi in diritto ambientale. Consegue il Dottorato di ricerca in diritto amministrativo nel 2006 presso l’Università degli Studi “Statale” di Milano. Borsista post dottorato presso l’Università degli Studi di Torino, è stato titolare di svariate borse di studio ed assegni di ricerca, nonché Docente a contratto in diritto amministrativo e diritto ambientale presso l’Università degli Studi di Torino e presso l’Università degli Studi del Piemonte Orientale “A. Avogadro”. E' altresì autore di numerose pubblicazioni nel campo del diritto amministrativo. ",
+        "activity": "Avvocato Cassazionista, è consulente di innumerevoli Pubbliche Amministrazioni e Società partecipate e presta assistenza giudiziale dinanzi agli organi della giustizia amministrativa in materia di contratti pubblici, servizi pubblici, governo del territorio, diritto ambientale e dell’energia.",
+        "email": "andrea.gandino@gpavvocati.it",
+        "seat": "",
+        "img": ""
+      }
+    ]
+  },
+  "CONTATTI": {
+    "title": "CONTATTI",
+    "milano": "MILANO",
+    "torino": "TORINO",
+    "verona": "VERONA",
+    "roma": "ROMA",
+    "download": "Scarica la brochure"
+  },
+  "DISCOVERMORE": {
+    "title": "PER SAPERNE DI PIU'",
+    "name": "Nome",
+    "name_error": "Nome obligatorio",
+    "cognome": "Cognome",
+    "email": "Inserisci la Email",
+    "email_none": "Email obligatoria",
+    "email_valid": "Email non valida",
+    "message": "MESSAGGIO",
+    "message_error": "Messaggio obbligatorio",
+    "bottom": "Invia",
+    "error_invio": "Invio non riuscito prova più tardi",
+    "true_invio": "Invio riuscito",
+    "privacy": "Acconsento al trattamento dei miei dati personali per le finalità indicate"
+  },
+  "ABOUTUS": {
+    "title": "SO DISTANT SO CLOSE",
+    "description": "Grazie alla solidità del nostro gruppo e dei valori che desideriamo ci rappresentino sempre – operosità, con divisione, laboriosità, disponibilità al sacrificio, intelligenza collettiva – è come se fossimo nel nostro Studio insieme ai nostri clienti: la forza del team emerge, e si rafforza, in questi momenti. E ci sentiamo ancor più vicini al nostro simbolo, la formica.Non siamo lontani, perché siamo da sempre coesi e vicini: Lexant ascolta, comprende e si mette a disposizione dei suoi clienti, oggi più che mai.",
+    "quote": "So DistANT, so close."
+  },
+  "CONSULENCE": {
+    "title": "CONSULENZA E SERVIZI PER LE IMPRESE",
+    "firstParagraph": "Le aziende sempre più cercano nello studio legale non solo l’avvocato altamente specializzato e profondo conoscitore della materia giuridica, ma anche un professionista smart, che sappia offrire servizi e consulenza in aree altamente integrate nei processi aziendali del cliente, con una prospettiva manageriale e sensibile alle esigenze di business.",
+    "secondParagraph": "Lexant ha l’attitudine e le competenze per offrire consulenza legale e strategica in aree aziendali come la compliance, la privacy, il credit & risk management e il real estate. Non solo. La vicinanza dei professionisti di Lexant ai propri clienti si esprime in servizi di advisory e supporto, come l’internazionalizzazione d’impresa, la certificazione dei processi aziendali e la formazione del personale."
+  },
+  "CLUB": {
+    "title": "CLUB LEXANT",
+    "firstParagraph": "Lo studio, con il supporto didattico e logistico di Academy ASK organizza momenti di incontri formativi esclusivamente dedicati ai propri clienti e non solo. Un ambiente unico dove i clienti e gli ospiti possono confrontarsi direttamente con i Professionisti di Lexant sulle più recenti novità legislative e sulla loro applicazione pratica. Eventi esclusivi appositamente studiati dallo Studio non solo mediante il coinvolgimento dei propri avvocati ma anche quello dei propri partner associativi e commerciali. Un’occasione anche di networking caratterizzata da momenti conviviali e di crescita anche non professionale grazie al coinvolgimento di coach e trainer.",
+    "secondTitle": "EVENTI CLUB LEXANT",
+    "secondSubTitle": "Il CFO e la compliance aziendale<br><small>25 marzo 2020 TORINO</small>"
+  },
+  "PUBBLICATIONS": {
+    "title": "PUBBLICAZIONI",
+    "firstParagraph": "Lexant realizza periodicamente redazionali, pubblicazioni e saggi sulle più recenti tematiche legali."
+  },
+  "GERMANDESK": {
+    "title": "GERMAN DESK",
+    "firstParagraph": "L’Avv. Lucia Flintrop, Senior of Counsel, è Responsabile del German Desk all’interno di Lexant.",
+    "secondParagraph": "Fornisce supporto e servizio di consulenza legale ad aziende tedesche In Italia.",
+    "thirdParagraph": "Le sue aree di intervento riguardano in particolare: Diritto Commerciale e Societario nazionale ed internazionale, Contrattualistica, Real Estate, Contenzioso e Arbitrati.",
+    "fourthParagraph": "Nel caso di investimenti diretti in Italia, l’Avv. Flintrop e il team Lexant sono a fianco dei clienti stranieri in tutte le attività necessarie: dalla costituzione della società o della filiale fino alla sua liquidazione. In particolare <br/>offrono supporto per:",
+    "list": "<ul><li>progettare e implementare la struttura aziendale locale</li><li>definire la governance societaria, la contrattualistica e la compliance normativa</li><li>conformarsi alle normative di legge vigenti in Italia nel settore di riferimento</li><li>assistenza nei servizi e payroll in collaborazione con commercialisti e consulenti del lavoro.</li>",
+    "fifthParagraph": "Inoltre, il German Desk offre supporto nella redazione e negoziazione di ogni tipo di contratto commerciale alle imprese tedesche che intendono stabilire contatti commerciali con società italiane. Assiste inoltre i suoi clienti offrendo consulenza nelle seguenti aree di competenza:",
+    "secondList": "<ul><li>recupero crediti</li><li>diritto fallimentare</li><li>diritto internazionale</li><li>contenzioso (anche davanti alla Corte di Cassazione) e arbitrati.</li></ul>",
+    "sixthParagraph": "I clienti tedeschi trovano così nell’avv. Flintrop e nello Studio Lexant referenti ideali a cui affidarsi con la certezza di ricevere un servizio personalizzato, rispondente alle proprie specifiche esigenze."
+  },
+  "CORPORATECOMPLIANCE": {
+    "title": "COMPLIANCE AZIENDALE",
+    "firstParagraph": "Nell’ultimo decennio si è assistito a un notevole sviluppo normativo in tema di controlli societari e responsabilità sociale. Ciò si è operativamente tradotto in una maggiore attenzione alla compliance aziendale, vale a dire a quell’attività volta a prevenire il rischio di non conformità dell’azienda alle norme, suggerendo, ove si riscontrassero disallineamenti, le più opportune soluzioni.",
+    "secondParagraph": "Nello specifico, la funzione compliance all’interno di una azienda deve:",
+    "list": "- prevenire i disallineamenti tra le procedure aziendali e l’insieme delle regole interne ed esterne<br/>- assistere le strutture aziendali nell’applicazione delle norme<br/>- predisporre interventi formativi per adeguare le procedure interne dei dipendenti e dei collaboratori alle norme<br/>- coordinare e garantire l’attuazione degli adempimenti richiesti dalle norme<br/>- segnalare le più recenti novità normative al fine di aggiornare periodicamente la documentazione in essere presso l’azienda<br/>- risolvere situazioni di discordanza tra le norme in vigore e le specifiche realtà operative dell’azienda<br/>- assicurare le relazioni con le Autorità e Organi di Controllo interni ed esterni.<br/>",
+    "thirdParagraph": "Lexant assiste e presta consulenza alle aziende con riferimento alle seguenti aree di intervento:",
+    "secondList": "- D.Lgs. 81/2008 \"Sicurezza sul lavoro\"<br/>- Reg. Europeo 2016/679 “GDPR Privacy”<br/>- D.Lgs. 231/01 \"Responsabilità da reato degli enti e Modelli organizzativi\"<br/>- L. 190/2012 “Anticorruzione”<br/>- D.L. 1/2012 – D.L. 29/2012 (L. 62/2012) “Rating di legalità”"
+  },
+  "TAXADVISORYSERVICE": {
+    "title": "TAX ADVISORY SERVICE",
+    "firstParagraph": "Lexant, per poter rispondere con concretezza alle esigenze tributarie dei propri clienti, si avvale di un team di avvocati tributaristi e dottori commercialisti in grado di coniugare innovazione e professionalità, e di individuare effettive soluzioni per specifico problema fiscale. In particolare, Lexant offre:",
+    "list": "- tutela stragiudiziale e giudiziale, anche dinanzi alla Corte Suprema di Cassazione<br/>- assistenza nella pianificazione fiscale<br/>- assistenza nella predisposizione di bilanci, anche redatti secondo i principi contabili I.A.S.-I.F.R.S.<br/>- supporto nella redazione di perizie, piani aziendali e finanziari<br/>- assistenza specifica nelle operazioni di ristrutturazioni societarie di M&A, di Due Diligence e di controllo di gestione"
+  },
+  "CREDITMANAGEMENT": {
+    "title": "CREDIT MANAGEMENT",
+    "firstParagraph": "Un'ottimizzazione dei processi aziendali relativi ai crediti consente di disporre di una maggiore liquidità, migliora il ciclo attivo e mette l’impresa in condizioni di creare valore.",
+    "secondParagraph": "Nelle grandi e piccole medie imprese si possono presentare situazioni contingenti che richiedono l’intervento di un consulente esterno specializzato nella gestione dei crediti.",
+    "thirdParagraph": "I professionisti di Lexant, da tempo attivi con elevata e consolidata specializzazione nella gestione delle attività di recupero credito, assistono le aziende nei processi di revisione e/o implementazione del proprio sistema di risk & credit management, anche nell’ambito del percorso di Certificazione di detti processi secondo i più elevati standard internazionali e in particolare della Prassi UNI."
+  },
+  "INTERNATIONALIZATION": {
+    "title": "INTERNAZIONALIZZAZIONE",
+    "firstParagraph": "Grazie a un network consolidato negli anni, Lexant offre ai suoi clienti know-how specifico in ambito di consulenza preliminare, studi di fattibilità e assistenza in loco, delocalizzazioni d'imprese, integrazioni produttive, costituzioni di joint venture e incorporazioni societarie, trading, sorveglianza sulla qualità del prodotto.",
+    "secondParagraph": "In particolare, la Divisione dedicata di Lexant si occupa di:",
+    "subTitle": "Progetti industriali:",
+    "list": "- Valutazione qualitativa e quantitativa di progetti di investimento e industriale nel mercato di riferimento.<br/>- Analisi di mercato per settore.<br/>- Studi di fattibilità.<br/>- Assistenza nella costituzione registrazione di società produttive e commerciali.<br/>- Assistenza nella fase esecutiva del progetto.<br/>- Ricerca del sito industriale ed assistenza durante la realizzazione dell'impianto.<br/>- Ricerca e qualificazione dei fornitori di materie prime.<br/>- Assistenza nella ricerca, selezione, formazione, gestione ed amministrazione del personale.<br/>",
+    "secondSubTitle": "Progetti commerciali:",
+    "secondList": "- Ricerca di partner finalizzata alla distribuzione dei prodotti.<br/>- Branding, sviluppo e posizionamento del marchio e del prodotto.<br/>- Ricerca e qualificazioni di fornitori di prodotti.<br/>- Consulenza e supporto per l'attività di Marketing e Comunicazione.<br/>"
+  },
+  "COMPLIANCEPROCESSCERTIFICATION": {
+    "title": "CERTIFICAZIONE DEI PROCESSI AZIENDALI",
+    "firstParagraph": "La certificazione dei sistemi di gestione aziendale, regolata da normative standard internazionali, assicura la capacità di un’Organizzazione di strutturarsi e di gestire le proprie risorse e i propri processi in modo tale da riconoscere e soddisfare i bisogni dei clienti (sistemi di gestione per la qualità) o, più in generale, degli stakeholder (bisogni correlati al rispetto dei requisiti cogenti), nonché l’impegno a migliorare continuativamente tale capacità nel quadro di un approccio per processi.",
+    "secondParagraph": "I professionisti di Lexant affiancano le aziende nella creazione e ottimizzazione di sistemi di gestione, implementandoli e rendendoli operativi secondo le principali normative.",
+    "thirdParagraph": "Attraverso vari livelli di intervento, Lexant introduce sistemi di gestione ottenendone la certificazione secondo i seguenti schemi primari:",
+    "list": "- Consulenza certificazioni sistemi di gestione qualità a norma ISO 9001:2015<br/>- Consulenza certificazioni sistemi di gestione del credito RMCM (TÜV Rheinland)<br/>- Consulenza certificazioni sistemi di gestione del rischio (ISO 31000 e correlate)<br/>- Consulenza certificazioni sistemi di gestione della Continuità Operativa (Business Continuity) ISO 22301<br/>- Consulenza certificazioni sistemi di gestione della sicurezza delle informazioni (ISO IEC 27001)<br/>- Consulenza certificazioni sistemi di gestione sicurezza sul lavoro OHSAS 18001<br/>- Consulenza certificazioni sistemi di gestione ambientale regolamento 14001 ed EMAS<br/>- Consulenza certificazioni sistemi di gestione della Sostenibilità degli Eventi (ISO 20121)<br/>- Consulenza certificazioni responsabilità sociale SA8000<br/>- Consulenza certificazioni settore Sicurezza e igiene agroalimentare ISO 22000 ed HACCP<br/>- Consulenza certificazioni settore turismo ed attività ricettive (carta dei Servizi, Bollino Blu, etc.)<br/>- Marcatura CE - certificazione di prodotto<br/>- Auditing di I e II parte (secondo norma ISO 19011 e standard richiesto)<br/>- Consulenza Sicurezza sul lavoro e adempimenti D.lgs. 81/2008 e smi<br/>- Consulenza attestazioni SOA – qualificazione per gli esecutori di lavori pubblici<br/>- Progettazione e realizzazione strutture di gestione software di sistemi aziendali"
+  },
+  "TRAINING": {
+    "title": "FORMAZIONE",
+    "firstParagraph": "I professionisti di Lexant svolgono attività di docenza su tematiche legali e fiscali per diversi centri di formazione e associazioni di categoria.",
+    "secondParagraph": "In particolare lo Studio collabora con importanti realtà quali:",
+    "list": "- LUISS Business School | <a href=\"www.businessschool.luiss.it\">www.businessschool.luiss.it</a><br/>- Università di Pisa | <a href=\"www.master-cfo.it\">www.master-cfo.it</a><br/>- Associazione Nazionale Direttori Finanziari | <a href=\"www.andaf.it\">www.andaf.it</a><br/>- Associazione Credit Managers Italia | <a href=\"www.acmi.it\">www.acmi.it</a><br/>- Associazione Italiana Tesorieri d’Impresa | <a href=\"www.aiti.it\">www.aiti.it</a><br/>- Associazione Italiana delle Imprese Cosmetiche | <a href=\"www.cosmeticaitalia.org\">www.cosmeticaitalia.org</a><br/>- Academy ASK | <a href=\"www.academyaskadvisory.it\">www.academyaskadvisory.it</a>",
+    "thirdParagraph": "Le attività formative organizzate da Lexant sono caratterizzate da un’elevata specializzazione e offrono aggiornamenti puntuali e mirati su tutti i temi più rilevanti in materia legale, fiscale, commerciale.",
+    "button": "SCARICA IL CATALOGO CORSI"
+  },
+  "REALESTATE": {
+    "title": "REAL ESTATE",
+    "firstParagraph": "<span class=\"lxnt_color\">Lo studio</span> è attivo nella gestione di patrimoni immobiliari e negli investimenti di settore, mettendo a disposizione dei clienti un team di professionisti in grado di seguire ogni tipo di operazione e di predisporre tutta la contrattualistica di settore.",
+    "secondParagraph": "<span class=\"lxnt_color\">Lexant</span> affianca i clienti nella negoziazione e finalizzazione delle transazioni, curando tutti gli aspetti che necessitano di un ausilio competente e completo."
+  },
+  "NETWORK": {
+    "title": "IL NETWORK",
+    "body": "Lexant sostiene le realtà associative di categoria e ne promuove le attività contribuendo alla realizzazione di progetti ad ampio respiro territoriale, all’erogazione di corsi di formazione e prendendo parte a eventi, seminari e workshop",
+    "associazioni": "Associazioni",
+    "partners": "Partners"
+  },
+  "BREADCRUMBS": {
+    "STUDIO_LEGALE_LEXANT": "STUDIO LEGALE LEXANT",
+    "IL_TEAM": "IL TEAM",
+    "IL_NETWORK": "IL NETWORK",
+    "CONSULENZA": "CONSULENZA E SERVIZI PER LE IMPRESE",
+    "COMPLIANCE_AZIENDALE": "COMPLIANCE AZIENDALE",
+    "TAX_ADVISORY_SERVICE": "TAX ADVISORY SERVICE",
+    "CREDIT_MANAGEMENT": "CREDIT MANAGEMENT",
+    "INTERNAZIONALIZZAZIONE": "INTERNAZIONALIZZAZIONE",
+    "CERTIFICAZIONE_DEI_PROCESSI_AZIENDALI": "CERTIFICAZIONE DEI PROCESSI AZIENDALI",
+    "FORMAZIONE": "FORMAZIONE",
+    "REAL_ESTATE": "REAL ESTATE",
+    "GERMAN_DESK": "GERMAN DESK",
+    "DISCIPLINE_LEGALI": "DISCIPLINE LEGALI",
+    "PUBBLICAZIONI": "PUBBLICAZIONI",
+    "CLUB_LEXANT": "CLUB LEXANT",
+    "CONTATTI": "CONTATTI",
+    "PER_SAPERNE_DI_PIU": "PER SAPERNE DI PIÙ",
+    "SO_DISTANT_SO_CLOSE": "SO DISTANT SO CLOSE",
+    "NEWS_E_EVENTI": "NEWS E EVENTI",
+    "NEWS_E_EVENTI_ARCHIVIO": "NEWS E EVENTI ARCHIVIO",
+    "HOME": "LEXANT",
+    "INFORMATIVA_COOKIE_POLICY": "INFORMATIVA COOKIE POLICY",
+    "PRIVACY": "PRIVACY",
+    "RESPONSIBILITY": "RESPONSIBILITY",
+    "RESPONSIBILITY-ARCHIVIO": "RESPONSIBILITY-ARCHIVIO",
+    "DIRITTO_BANCARIO_ASSICURATIVO_FINANZIARIO": "DIRITTO BANCARIO, ASSICURATIVO E FINANZIARIO",
+    "DIRITTO_COMMERCIALE_SOCIETARIO": "DIRITTO COMMERCIALE E SOCIETARIO",
+    "DIRITTO_LAVORO": "DIRITTO DEL LAVORO",
+    "DIRITTO_SPORTIVO": "DIRITTO SPORTIVO E DEGLI E-SPORTS",
+    "DIRITTO_AMMINISTRATIVO": "DIRITTO AMMINISTRATIVO",
+    "DIRITTO_FALLIMENTARE_RISTRUTTURAZIONI": "DIRITTO FALLIMENTARE E RISTRUTTURAZIONI SOCIETARIE",
+    "DIRITTO_PENALE_ECONOMICO": "DIRITTO PENALE ECONOMICO",
+    "DIRITTO_TRIBUTARIO": "DIRITTO TRIBUTARIO",
+    "DIRITTO_FAMIGLIA_SUCCESSIONI": "DIRITTO DI FAMIGLIA E SUCCESSIONI",
+    "DIRITTO_INFORMATICA": "DIRITTO DELL'INFORMATICA",
+    "CONTRATTUALISTICA_NAZIONALE_INTERNAZIONALE": "CONTRATTUALISTICA NAZIONALE E INTERNAZIONALE",
+    "CONTENZIOSO_ARBITRATO": "CONTENZIOSO E ARBITRATO",
+    "ARCHIVIO": "ARCHIVIO"
+  },
+  "COOKIES": {
+    "AcceptancePartOne": "Utilizziamo i cookie per assicurarti la migliore esperienza nel nostro sito. Questo sito utilizza i cookie, anche di terze parti, per inviarti messaggi promozionali personalizzati.<br/>Per saperne di più, conoscere i cookie utilizzati dal sito ed eventualmente disabilitarli, accedi alla ",
+    "routerlink": "Cookie Policy",
+    "AcceptancePartTwo": "<br/>Se prosegui nella navigazione di questo sito acconsenti all’utilizzo dei cookie.",
+    "title": "COOKIES",
+    "firstParagraph": "<div class='lxnt_color'>Cosa sono</div>I cookie sono piccoli file di testo memorizzati nel computer o nel dispositivo mobile dell´utente quando visita il nostro sito web.",
+    "secondParagraph": "<div class='lxnt_color'>A cosa servono</div>I cookie sono da noi utilizzati per assicurare all´utente la migliore esperienza nel nostro sito. Questo sito utilizza i cookie, anche di terze parti, per inviare messaggi promozionali personalizzati.",
+    "thirdParagraph": "<div class='lxnt_color'>Tipologie di cookie</div>I cookie sono categorizzati come segue.<br/>Cookie di sessione. Cookie automaticamente cancellati quando l´utente chiude il browser.<br/>Cookie persistenti. Cookie che restano memorizzati nel dispositivo dell´utente sino al raggiungimento di una determinata data di terminazione (in termini di minuti, giorni o anni dalla creazione/aggiornamento del cookie).<br/>Cookie di terze parti. Cookie memorizzati per conto di soggetti terzi.<br/>E possibile controllare ed eliminare i singoli cookie utilizzando le impostazioni della maggior parte dei browser. Ciò, tuttavia, potrebbe impedire di utilizzare correttamente alcune funzioni del nostro sito web.<br/>Per saperne di più è possibile fare riferimento a <a class='lxnt_color' href='www.aboutcookies.org>www.aboutcookies.org</a> o <a class='lxnt_color' href='www.allaboutcookies.org'>www.allaboutcookies.org</a>.",
+    "fourthParagraph": "Per cambiare la configurazione:",
+    "fifthParagraph": "Google Chrome: <a class='lxnt_color' href='https://support.google.com/accounts/answer/32050?hl=it'>https://support.google.com/answer/32050</a><br/>Mozilla Firefox: <a class='lxnt_color' href='https://support.mozilla.org/it/kb/Gestione%20dei%20cookie'>https://support.mozilla.org/it/gestione-dei-cookie</a><br/>Internet Explorer: <a class='lxnt_color' href='http://windows.microsoft.com/it-IT/internet-explorer/delete-manage-cookies#ie=ie-11'>http://windows.microsoft.com/it-IT/internet-explorer/delete-manage-cookies#ie=ie-11</a><br/>Apple Safari: <a class='lxnt_color' href='https://support.apple.com/it-it/HT201265'>https://support.apple.com/it-it/HT201265</a>"
+  },
+  "PRIVACY": {
+    "title": "PRIVACY",
+    "titolare_del_trattamento": "TITOLARE DEL TRATTAMENTO",
+    "sede_legale": "SEDE LEGALE",
+    "indirizzo_mail": "INDIRIZZO E-MAIL",
+    "firstParagraph": "<div class='text-center lxnt_color'>IMPEGNO</div>Lo Studio Legale ARNALDI CAIMMI & ASSOCIATI, in <u>QUALITÀ DI TITOLARE DEL TRATTAMENTO DEI DATI</u> con tutti i suoi partner si impegna a proteggere la Vostra Privacye tutti i dati che vengono condivisi in conformità alle normative vigenti Europee ed Italiane. La presente Informativa sulla Privacy ha lo scopo di descrivere in modo esaustivo e chiaro in quale modo lo studioARNALDI CAIMMI & ASSOCIATI è autorizzato a raccogliere, utilizzare e condividere le informazioni, con particolare attenzione anche all’utilizzo del Nostro sito e dei sistemi informatici utilizzati a supportodella nostra attività effettuata direttamente o in combinazione con altre modalità quali, ad esempio, sito internet, e-mail, comunicazioni, collegamenti a siti di social network.",
+    "secondParagraph": "<div class='text-center lxnt_color'>APPLICAZIONE</div>La presente Informativa sulla Privacy non si applica in modo specifico a quelle informazioni che vengono fornite nell’ambito dello specifico rapporto avvocato/cliente o a tutte quelle informazioni che perloro natura sono tutelate dai principi di riservatezza in base alle norme applicabili e nello specifico rapporto professionale tra avvocato e il cliente.",
+    "thirdParagraph": "<div class='text-center lxnt_color'>INFORMAZIONI RACCOLTE</div>Le informazioni ed i dati raccolti riguardano esclusivamente i dati necessari all’espletamento dell’incarico a meno che non ci siano fornite deliberatamente, come ad esempio, alcune parti del nostro sitoweb, come la pagina \"Per saperne di più\", che consentono di fornirci informazioni personali su base volontaria, tra cui nome, indirizzo e-mail, ed eventuali ulteriori informazioni. Analogamente, i vostri recapiti possono essere aggiunti alle mailing list di avviso ai nostri clienti o contatti quando fornite i recapiti ad uno dei nostri avvocati.",
+    "fourthParagraph": "<div class='text-center lxnt_color'>PERIODO DI CONSERVAZIONE DEI DATI PERSONALI</div>Lo Studio ARNALDI CAIMMI & ASSOCIATI conserva i Vostri dati esclusivamente per il periodo necessario all’adempimento di obblighi legali, contrattuali e/o normativi o di legge. Il periodo di conservazionedelle informazioni dipende dallo scopo per cui vengono trattati i dati e dagli strumenti con cui tali informazioni sono trattate. I criteri utilizzati per definire il periodo di conservazione sono il temponecessario al conseguimento della relativa finalità, il tempo necessario all'espletamento del rapporto contrattuale, il tempo richiesto dalle leggi applicabili in materia.<br/>Al termine del periodo previsto di conservazione i dati saranno cancellati ovvero distrutti in modo sicuro ove possibile. Coerentemente con le nostre politiche di conservazione dei dati esistenti ed irequisiti legali applicabili, nel caso che non siate più clienti del Nostro studio sarà nostra cura eliminare, restituire o rendere anonimi Suoi dati personali, salvo i casi in cui siamo tenuti a conservaretali dati ai sensi della legge applicabile o per motivi di responsabilità professionale.",
+    "fifthParagraph": "<div class='text-center lxnt_color'>LICEIT&Agrave; DEL TRATTAMENTO</div>Il trattamento dei dati personali, sensibili o giudiziari è improntato ai principi di liceità, correttezza e trasparenza; limitazione della finalità; minimizzazione dei dati; esattezza; limitazione dellaconservazione; integrità e riservatezza e si svolge nel rispetto dei diritti, delle libertà fondamentali nonché della dignità delle persone.",
+    "sixthParagraph": "<div class='text-center lxnt_color'>PERIODO DI CONSERVAZIONE DEI DATI PERSONALI</div>Lo Studio ARNALDI CAIMMI & ASSOCIATI conserva i dati per il periodo necessario all’adempimento di obblighi legali, contrattuali e/o normativi. Il periodo di conservazione delle informazioni dipende dalloscopo per cui vengono trattati i dati e dagli strumenti con cui tali informazioni sono trattate. I criteri utilizzati per definire il periodo di conservazione sono il tempo necessario al conseguimento dellarelativa finalità, il tempo necessario all'espletamento del rapporto contrattuale, il tempo richiesto dalle leggi applicabili in materia. Al termine del periodo previsto di conservazione i dati saranno cancellati ovvero distrutti in modo sicuro ove possibile, o resi anonimi.",
+    "firstPointTitle": "A) TIPOLOGIA DI DATI TRATTATI, FINALITÀ E BASE GIURIDICA DEL TRATTAMENTO",
+    "firstPointDescOne": "I dati personali, particolari (sensibili e giudiziari) conferiti alla nostra Società anche attraverso differenti forme e modalità quali schede, o modulistica predisposta ad hoc, saranno trattati per tuttigli adempimenti connessi alle richieste che saranno da Voi effettuate e per la conseguente gestione del rapporto lavorativo instaurato nonché per il perseguimento degli scopi e le finalità previste dallarichiesta di rapporto professionale o contrattuale instaurato. I dati conferiti potranno altresì essere trattati per le seguenti finalità:",
+    "firstPointList": "<ol><li>gestione dei pagamenti ed eventuale inadempienza (recupero crediti e contenzioso);</li><li>accertare, esercitare o difendere un nostro diritto in sede giudiziaria;</li><li>adempimento di obblighi di legge, di normativa in materia fiscale o contabile (ad esempio fatturazione);</li><li>poter produrre documenti o informazioni rilevanti relativi a contenzioso, arbitrato, mediazione, aggiudicazione, inchiesta governativa o interna, o altri procedimenti legali o amministrativi;</li><li>eventuali necessità organizzative interne;</li><li>supportare eventuali attività per combattere frodi o attività illecite;</li><li>altre attività consentite dalla legge.</li></ol>",
+    "firstPointDescTwo": "Alcuni dati personali possono sono raccolti e forniti da Voi in modo volontario come ad esempio l’iscrizione a una mailing list o per la registrazione per un evento o per ottenere informazioni e pertantovengono raccolti e utilizzati solo con il vostro consenso.",
+    "secondPointTitle": "B)OBBLIGATORIETÀ DEL CONFERIMENTO DEI DATI",
+    "secondPointDescOne": "I dati conferiti potranno altresì essere trattati per le seguenti finalità:",
+    "secondPointList": "<ol type='a'><li>gestione dei pagamenti ed eventuale inadempienza (recupero crediti e contenzioso);</li><li>accertare, esercitare o difendere un nostro diritto in sede giudiziaria;</li><li>adempimento di obblighi di legge, di normativa in materia fiscale o contabile (ad esempio fatturazione);</li></ol>",
+    "secondPointDescTwo": "I dati <span class='lxnt_color'>non saranno diffusi</span> a soggetti non noti. Potranno, invece, essere comunicati, qualora la comunicazione risulti necessaria e/o funzionale allo svolgimento della nostra attività, neimodi e per le finalità sopra illustrate, a soggetti esterni, i quali effettuano attività di trattamento in qualità di autonomi titolari oppure in qualità di responsabili, appartenenti alle seguenti categorie:",
+    "secondPointListTwo": "<ol type='a'><li>società a noi collegate per motivi operativi, società di consulenza amministrativa, del lavoro, fiscale, legale e notarile per adempimenti di legge o per accertare, esercitare o difendere un nostro dirittoin sede giudiziaria;</li><li>fornitori di servizi informatici;</li><li>enti pubblici e privati, anche a seguito di ispezioni, verifiche, gestione, per adempimenti di obblighi di legge e/o di disposizioni di organi pubblici (es. amministrazione finanziaria, organi di polizia,autorità giudiziaria).</li></ol>",
+    "thirdPointTitle": "C)DESTINATARI E SOGGETTI AUTORIZZATI AL TRATTAMENTO",
+    "thirdPointDescOne": "I soggetti terzi che trattano dati per conto del nostro studio in qualità di TITOLARE del trattamento sono stati adeguatamente selezionati e valutati e risultano dotati di esperienza, capacità e affidabilitàoffendo un’idonea garanzia nel pieno rispetto delle vigenti disposizioni in materia di trattamento, ivi compreso il profilo della sicurezza dei dati. Questi soggetti sono stati, come previsto dal regolamentoEuropeo e dai decreti nazionali, formalmente nominati attraverso uno specifico contratto o atto giuridico conforme al diritto nazionale quali responsabili del trattamento ai sensi dell'art.28 del RegolamentoEuropeo e sono soggetti ad obblighi contrattuali e normativi al fine di mantenere e garantire la riservatezza dei dati.",
+    "thirdPointDescTwo": "Periodicamente la nostra organizzazione attua una verifica in modo tale da garantire che tutti i RESPONSABILI esterni abbiano assolto puntualmente i compiti loro affidati e che continuino a prestare idoneegaranzie del pieno rispetto delle disposizioni in materia di protezione dei dati personali, sensibili o giudiziari. Avranno, inoltre, unicamente accesso a quelle informazioni necessarie per lo svolgimento delleproprie funzioni.",
+    "thirdPointDescThree": "I dati potranno essere comunicati anche ad ulteriori società esterne, sempre nominate formalmente con apposito atto quali responsabili del trattamento per la fornitura di servizi di supporto che comportanoil trattamento dei dati stessi, quali ad esempio servizi legali e recupero del credito, gestione e manutenzione dei sistemi informatici e delle banche dati che includono dati degli interessati, serviziamministrativi e contabili, servizi di assistenza.",
+    "thirdPointDescFour": "Un elenco di questi responsabili del trattamento è sempre disponibile e reperibile presso la Nostra sede attraverso l’invio di una mail all’indirizzo <a href='mailto:privacy@lexant.it' class='lxnt_color'>privacy@lexant.it</a>.Potranno, inoltre, conoscere e trattare i dati i dipendenti e collaboratori del Titolare appositamente autorizzati, ognuno nei limiti delle funzioni e mansioni svolte e secondo le istruzioni indicate nell'atto di designazione.",
+    "fourthPointTitle": "D)PROTEZIONE E SICUREZZA DEI DATI",
+    "fourthPointDescOne": "I Vostri dati personali saranno trattati con strumenti automatizzati, semi-automatizzati nel rispetto del principio di necessità e proporzionalità, evitando di trattare i dati personali qualora le operazionipossano essere realizzate mediante l'uso di dati anonimi o mediante altre modalità che rendano il trattamento più sicuro. La nostra organizzazione ha adottato specifiche misure di sicurezza per prevenire laperdita dei dati personali, usi illeciti o non corretti ed accessi non autorizzati ma la preghiamo di non dimenticare che è essenziale per la sicurezza dei suoi dati che il suo dispositivo sia dotato distrumenti quali antivirus costantemente aggiornati e che il provider che le fornisce la connessione ad Internet garantisca la trasmissione sicura dei dati in attraverso firewalls, filtri antispamming e analoghipresidi.",
+    "fifthPointTitle": "E)I VOSTRI DIRITTI",
+    "fifthPointDescOne": "Contattando il Titolare via e-mail all’indirizzo <a href='privacy@lexant.it' class='lxnt_color'>privacy@lexant.it</a>",
+    "fifthPointList": "<ol><li>l’accesso ai dati che la riguardano,</li><li>la loro cancellazione,</li><li>la rettifica di eventuali dati inesatti,</li><li>l’integrazione dei dati incompleti,</li><li>la limitazione del trattamento,</li><li>la portabilità nonché l’opposizione al trattamento nelle ipotesi di legittimo interesse del Titolare.</li></ol>",
+    "fifthPointDescTwo": "Inoltre ha anche il diritto inoltre di proporre reclamo all'Autorità di controllo competente nello Stato membro in cui risiede abitualmente o lavora o dello Stato in cui si è verificata la presuntaviolazione.",
+    "sixthPointTitle": "F)CONSENSO ED EVENTUALE SUA REVOCA",
+    "sixthPointDescOne": "Si potrà, in qualsiasi momento, revocare i consensi prestati. Si potrà in qualsiasi momento revocare il consenso per le finalità di trattamento dei propri dati sensibili/giudiziari o ai fini di marketingattraverso le modalità previste o direttamente attraverso l’invio di una mail all’indirizzo privacy@lexant.it. L’eventuale revoca non pregiudicherà in nessun modo la liceità del trattamento basato sul consenso prestato prima della revoca dello stesso.",
+    "septhPointTitle": "G)TRASFERIMENTO DEI DATI ALL’ESTERO",
+    "septhPointDescOne": "Nel corso dei nostri servizi professionali di assistenza legale, lo Studio potrebbe dover trasferire i Vostri dati personali in stati Extra UE. Qualsiasi trasferimento di questo tipo sarà comunque effettuatoin conformità con quanto richiesto e prescritto dalle normative Europee e nazionali.",
+    "eigthPointTitle": "H)VALIDITÀ E AGGIORNAMENTO",
+    "eigthPointDescOne": "Il presente documento è in Rev. 01 ed è valido a partire dal giorno 8 aprile 2019 ed è soggetto a verifica periodica almeno semestrale."
+  },
+  "RESPONSIBILITY": {
+    "title": "RESPONSIBILITY",
+    "firstParagraph": "La forza e capacità del nostro Studio è nel team, perchè le persone che ne fanno parte hanno etica e valori forti, di grande umanità. A loro dobbiamo un grazie, e grazie a loro abbiamo l’energia e la volontà di lavorare bene e guardarci intorno, ascoltando talvolta anche le richieste di chi non è altrettanto fortunato e ha bisogno di una mano. Sono piccoli progetti e contributi che Lexant da sempre dona senza alcuna ambizione, momenti di attenzione o iniziative a supporto di Associazioni, persone e realtà che, da sempre, ricambiano donandoci grandi sorrisi e felicità umana.",
+    "discover": "SCOPRI LE INIZIATIVE PASSATE",
+    "archive": {
+      "title": "ARCHIVIO"
+    }
+  },
+  "DISCIPLINES": {
+    "title": "DISCIPLINE LEGALI",
+    "firstParagraph": "Lexant offre consulenza legale in un ampio numero di materie giuridiche con un approccio multidisciplinare e trasversale. La formazione dei professionisti di Lexant rispecchia questa visione e si esprime in dipartimenti altamente specializzati, organizzati sia verticalmente per seniority ed esperienza, sia orizzontalmente per funzione e competenza, in modo da offrire ai clienti un servizio integrato e completo.",
+    "discover": "SCOPRI",
+    "referent": "IL REFERENTE",
+    "division": "DELLA DIVISIONE"
+  },
+  "DIRITTO_BANCARIO_ASSICURATIVO_FINANZIARIO": {
+    "title": "DIRITTO BANCARIO, ASSICURATIVO E FINANZIARIO",
+    "firstParagraph": "Nell’ambito di questo settore di attività, Lexant si occupa di assistenza nel contenzioso per responsabilità civile in tema di contratti, di attività di recupero crediti ordinari e fondiari, di consulenza giudiziale e stragiudiziale in materia normativa e regolamentare per compagnie di factoring (Fintech), assicurazioni, istituti bancari e società di intermediazione mobiliare."
+  },
+  "DIRITTO_COMMERCIALE_SOCIETARIO": {
+    "title": "DIRITTO COMMERCIALE E SOCIETARIO",
+    "firstParagraph": "Lexant si occupa di consulenza e assistenza nelle compravendite di partecipazioni societarie, di maggioranza o di minoranza, in Italia e all'estero, e di trasferimento di aziende e/o rami d'azienda, ivi comprese le attività di due diligence e la redazione e negoziazione degli accordi contrattuali connessi e/o strumentali a dette operazioni (i.e. lettere di intenti, contratti di acquisizione e patti parasociali).<br/>Lexant assiste e consiglia i suoi clienti nelle acquisizioni, operazioni di finanza straordinaria, Private Equity e quotazioni nei mercati regolamentati.<br/>Offre consulenza a società quotate nei mercati regolamentati italiani e agli azionisti di riferimento, con riguardo alle attività e responsabilità degli organi sociali e delle problematiche di corporate governance, delle operazioni sul capitale sociale, della predisposizione di piani di stock-option, della compliance regolamentare."
+  },
+  "DIRITTO_LAVORO": {
+    "title": "DIRITTO DEL LAVORO",
+    "firstParagraph": "Siamo operatori attivi in un settore nel quale la conoscenza delle nuove dinamiche e criticità è fondamentale.<br/>Il mondo del lavoro vive, ormai da diversi anni, un cambiamento continuo. La crisi economica e il cambiamento dei mercati, così come più recentemente le riforme del sistema normativo italiano, richiedono un approccio nuovo. Ci sono meno regole e dunque più possibilità di individuare soluzioni innovative.",
+    "secondParagraph": "I professionisti di Lexant individuano risposte nuove e forniscono assistenza specialistica in materia di:<br/>Gestione e soluzione problematiche giuslavoristiche:",
+    "firstList": "<ul><li>Stesura dei contratti di lavoro subordinato e/o autonomo</li><li>Stesura dei contratti di lavoro speciali e/o atipici (part – time, contratto di lavoro a termine etc.)</li><li>Stesura dei contratti di agenzia, di mediazione anche finanziaria e di procacciamento di affari</li></ul>",
+    "thirdParagraph": "Gestione strategica, prelegale e stragiudiziale:",
+    "secondList": "<ul><li>Procedimenti di licenziamento singoli, collettivi e di mobilità</li><li>Processi di cassa integrazione</li><li>Assistenza nell'implementazione di ulteriori strumenti di flessibilità</li></ul>",
+    "fourthParagraph": "Assistenza e rappresentanza per le controversie relative a:",
+    "thirdList": "<ul><li>Rapporti di lavoro</li><li>Rapporti di agenzia</li><li>Gestione del contenzioso sindacale (procedimenti ex art. 28 S.L)</li></ul>",
+    "fifthParagraph": "Consulenza, assistenza e gestione dei processi di riorganizzazione aziendale."
+  },
+  "DIRITTO_SPORTIVO": {
+    "title": "DIRITTO SPORTIVO E DEGLI E-SPORTS",
+    "firstParagraph": "Lexant si affianca con le sue competenze in materia a club, atleti, squadre e federazioni, per affrontare e risolvere problematiche legate al mondo dello sport, sia dilettantistico sia professionistico. In particolare, nell’ambito del diritto sportivo, i nostri professionisti sono specializzati in: contrattualistica, trasferimenti di atleti, doping, tutela avanti gli organi della giustizia sportiva e ordinaria, procedimenti disciplinari, arbitrati nazionali e internazionali, oltre che nei contratti commerciali maggiormente rilevanti per il settore, come quelli di sponsorizzazione e in generale riguardanti la proprietà intellettuale e i diritti d’immagine. <br> Lexant inoltre offre assistenza nell’ambito dell’emergente settore degli E-Sports. In particolare, il nostro Team assiste imprese e persone interessate ad investire nel settore, tutela la figura e l’immagine del Pro-Player, contribuisce alla costituzione e al management di Team di E-Sport, di cui cura la gestione della proprietà intellettuale, delle sponsorizzazioni e dei rapporti con Broadcasting, Media ed Entertainment.  Lo Studio infine, partecipa attivamente ad iniziative e tavoli di discussione del movimento E-Sports (come OIES, Osservatorio Italiano E-Sport), sia per contribuire alla sua crescita normativa e istituzionale, sia per promuovere adeguati standard di tutela per i giocatori elettronici",
+    "button": "SCARICA IL CATALOGO CORSI SPORT"
+  },
+  "DIRITTO_AMMINISTRATIVO": {
+    "title": "DIRITTO AMMINISTRATIVO",
+    "firstParagraph": "Negli anni abbiamo sviluppato una significativa esperienza nell’ambito del diritto amministrativo.<br/>I professionisti di questa divisione forniscono assistenza e consulenza a imprese pubbliche, imprese private, pubbliche amministrazioni e joint venture fra soggetti pubblici e privati.",
+    "secondParagraph": "In particolare, Lexant offre assistenza nelle materie degli appalti e delle concessioni di opere e servizi pubblici, degli appalti di forniture, dei servizi pubblici locali e delle aziende municipalizzate. Lo Studio assiste la propria clientela nel contenzioso dinanzi alle autorità giurisdizionali amministrative in ogni grado di giudizio, in relazione a controversie inerenti prevalentemente dette materie."
+  },
+  "DIRITTO_FALLIMENTARE_RISTRUTTURAZIONI": {
+    "title": "DIRITTO FALLIMENTARE E RISTRUTTURAZIONI SOCIETARIE",
+    "firstParagraph": "Oggi più che mai le imprese possono essere chiamate ad affrontare stati di crisi non solo finanziari ma anche strutturali e organizzativi.<br/>Non intercettare e gestire in tempo utile i segnali di eventuali crisi può portare l’impresa – grande o piccola che sia – verso uno stato di insolvenza irreversibile.<br/>In ottica di prevenzione, Lexant supporta le aziende attraverso i seguenti strumenti:",
+    "firstList": "- Implementazione sistemi di controllo di gestione<br/>- Analisi periodica budget e indici andamentali<br/>- Confronto con realtà concorrenti (benchmarking)<br/>- Analisi finanziaria, cashflow prospettici<br/>- Consulenza direzionale e strategica",
+    "secondParagraph": "In ottica di superamento di una crisi di liquidità, Lexant affianca l’azienda con le seguenti azioni:",
+    "secondList": "- Supporto nei rapporti con banche e istituti di credito<br/>- Miglioramento di tempi e modalità di incasso da parte dei clienti<br/>- Razionalizzazione acquisti e dilazione pagamento dei fornitori<br/>- Supporto al raggiungimento veloce del pareggio finanziario",
+    "thirdParagraph": "Nell’ottica di trasformare la crisi in opportunità, Lexant si occupa di:",
+    "thirdList": "- Gestione del “passaggio generazionale”.<br/>- Determinazione delle strategie future e delle risorse da impiegare<br/>- Definizione di una chiara informazione agli organi aziendali<br/>- Miglioramento della comunicazione con gli stakeholders.<br/>- Individuazione e applicazione degli strumenti per il rilancio:",
+    "fourthList": "<ul><li>Piano di risanamento ex art. 67 L.F.</li><li>Amministrazione straordinaria ex art. 2, D.L. 347/03 (c.d. legge Marzano).</li><li>Accordo di ristrutturazione del debito ex art. 182-bis L.F.</li><li>Concordato Preventivo ex art. 160 L.F.</li><li>Transazione fiscale ex art. 182-ter LF.</li><li>Accordo di composizione della crisi da sovraindebitamento L. 3/12</li>"
+  },
+  "DIRITTO_PENALE_ECONOMICO": {
+    "title": "DIRITTO PENALE ECONOMICO",
+    "firstParagraph": "I professionisti della Unit dedicata di Lexant affiancano aziende, imprenditori e professionisti fornendo assistenza preventiva e processuale nell’area del Diritto Penale Economico, con particolare riferimento alle implicazioni di carattere penale connesse ai fenomeni criminosi associati allo svolgimento di attività economiche, commerciali, industriali o professionali.",
+    "secondParagraph": "In particolare, Lexant si occupa di:",
+    "firstList": "- Responsabilità penale –amministrativa D.lgs. 231/01<br/>- Reati societari e fallimentari<br/>- Contraffazione e tutela penale della proprietà industriale ed intellettuale.<br/>- Reati contro il patrimonio<br/>- Reati in materia ambientale<br/>- Delitti contro la Pubblica Amministrazione<br/>- Infortuni e tutela della sicurezza sui luoghi di lavoro."
+  },
+  "DIRITTO_TRIBUTARIO": {
+    "title": "DIRITTO TRIBUTARIO",
+    "firstParagraph": "Un team di avvocati tributaristi e dottori commercialisti lavorano in Lexant coniugando innovazione e professionalità per individuare soluzioni ad hoc per ogni tipo di problematica fiscale presentata dai clienti.<br/>I nostri professionisti offrono tutela stragiudiziale e giudiziale, anche dinanzi alla Corte Suprema di Cassazione, assistenza nella pianificazione fiscale e nella predisposizione di bilanci – anche redatti secondo i principi contabili I.A.S.-I.F.R.S. – nella redazione di perizie, piani aziendali e finanziari, nonché nell’assistenza specifica nelle operazioni di ristrutturazioni societarie di M&A, di Due Diligence e di controllo di gestione."
+  },
+  "DIRITTO_FAMIGLIA_SUCCESSIONI": {
+    "title": "DIRITTO DI FAMIGLIA E SUCCESSIONI",
+    "firstParagraph": "Un’area dedicata di Lexant si occupa di tutte le problematiche connesse al diritto di famiglia, agli aspetti civilistici inerenti i rapporti personali e patrimoniali tra i coniugi, alla disciplina legale dei rapporti di filiazione.<br/>Nel corso degli anni lo Studio ha posto particolare attenzione anche al diritto delle successioni e a tutte le questioni correlate, maturando una rilevante competenza con specifico riferimento alla tutela del patrimonio familiare, ai patti ereditari, alla redazione di testamenti, alla dichiarazione di successione, alle divisioni ereditarie."
+  },
+  "DIRITTO_INFORMATICA": {
+    "title": "DIRITTO DELL'INFORMATICA",
+    "firstParagraph": "È un settore di specializzazione particolarmente in crescita negli ultimi anni, coerentemente con la crescita dell’utilizzo degli strumenti digitali da parte di privati, aziende e professionisti e alla sempre maggiore informatizzazione di servizi bancari e di pubblica amministrazione.<br/>Lexant fornisce consulenza in campo informatico, con riferimento agli accordi di sviluppo e/o di utilizzo di programmi di digitalizzazione, distribuzione di software, accordi di licenza e/o riservatezza."
+  },
+  "CONTRATTUALISTICA_NAZIONALE_INTERNAZIONALE": {
+    "title": "CONTRATTUALISTICA NAZIONALE E INTERNAZIONALE",
+    "firstParagraph": "Lexant fornisce consulenza e assistenza nella redazione e negoziazione di atti contrattuali sia nazionali sia internazionali in materia di distribuzione, fornitura di beni e servizi, franchising, appalto, agenzia, trasporto, sponsorizzazione ed utilizzo e cessione di marchio e di altri diritti di proprietà intellettuale quali contratti per l'utilizzo e/o la cessione di licenze software e di \"know-how\"."
+  },
+  "CONTENZIOSO_ARBITRATO": {
+    "title": "CONTENZIOSO E ARBITRATO",
+    "firstParagraph": "Lexant si occupa di assistenza e difesa in giudizio, in ogni giurisdizione - ordinaria o speciale - dello Stato nonché in sede di procedure arbitrali nazionali e internazionali di controversie nelle materie civilistiche, commerciali, societarie, bancarie e finanziarie.<br/>Seguiamo ogni fase a partire dall’analisi preliminare della controversia, per consentire al cliente di compiere scelte consapevoli, anche mediante la valutazione del rapporto costi/benefici delle cause rispetto a soluzioni stragiudiziali eventualmente percorribili."
+  },
+  "LAWYER": {
+    "albo": "Albo",
+    "lingue": "Lingue:",
+    "formazione": "Formazione:",
+    "activity": "Aree di attività",
+    "seat": "Sede:",
+    "discover": "Scopri di più ..."
+  },
+  "HEADER": {
+    "privateArea": "Area clienti"
+  }
+}
