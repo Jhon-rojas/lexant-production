@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1611848707307,
+  "timestamp": 1611849184681,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -500,7 +500,7 @@
     "/assets/i18n/de.json": "c2f8f46af89c8bd23a671049d12121e94b108130",
     "/assets/i18n/en.json": "bc2f2e14776cf62157ca765c5d8d30b0fd3b32ec",
     "/assets/i18n/fr.json": "1ae4204459b05a3b3c8930fb0fcbcb9f92e43fba",
-    "/assets/i18n/it.json": "36125aea1a9e8de6df77eb98e433e6007a4c3a53",
+    "/assets/i18n/it.json": "b118dbf572b4a643622a20818cd939f070b2a896",
     "/assets/icons/Lexant-Marchio-178-98.png": "ba56ad06b24e6c3bd614cdc84371b414fbc6ef0c",
     "/assets/icons/Lexant-Marchio-355-195.jp2": "563bf247dc0c2c1e993370089e7b2a547a96de56",
     "/assets/icons/Lexant-Marchio-355-195.png": "553cc24de51caa7c1092aa52b54d96447e370456",
