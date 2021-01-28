@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1611849184681,
+  "timestamp": 1611850544815,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -497,10 +497,10 @@
     "/assets/attachments/pubblicazioni/archivio/1214-Redazionale_-_Pegno_non_possessorio.docx": "bcb90b863496eb52cf10e46730692c445e3e2419",
     "/assets/attachments/pubblicazioni/archivio/1216-redazionale_appalti.docx": "99ce95b8498366116a8e46bd24ae67f68435a6e3",
     "/assets/attachments/pubblicazioni/archivio/1218-Redazionale_SLACC_CM_-_RIFORMA_LEGGE_FALLIMENTARE_12-10-2017.pdf": "d1f2f8a20bdbd2af1cdc538bcf2a529e07eaa658",
-    "/assets/i18n/de.json": "c2f8f46af89c8bd23a671049d12121e94b108130",
-    "/assets/i18n/en.json": "bc2f2e14776cf62157ca765c5d8d30b0fd3b32ec",
-    "/assets/i18n/fr.json": "1ae4204459b05a3b3c8930fb0fcbcb9f92e43fba",
-    "/assets/i18n/it.json": "b118dbf572b4a643622a20818cd939f070b2a896",
+    "/assets/i18n/de.json": "d2fe9cf00d6dac063215221c6d79cc9a547c4dfe",
+    "/assets/i18n/en.json": "60299f30be37d57d84c68ecbc5dfa2666e839830",
+    "/assets/i18n/fr.json": "9800364504ede3269eafe220e6a813f58d5164db",
+    "/assets/i18n/it.json": "7347fb8973208d9108e002cdeefe1b9a0e05eb4f",
     "/assets/icons/Lexant-Marchio-178-98.png": "ba56ad06b24e6c3bd614cdc84371b414fbc6ef0c",
     "/assets/icons/Lexant-Marchio-355-195.jp2": "563bf247dc0c2c1e993370089e7b2a547a96de56",
     "/assets/icons/Lexant-Marchio-355-195.png": "553cc24de51caa7c1092aa52b54d96447e370456",
