@@ -8,7 +8,7 @@ const io = require('@pm2/io')
 const compression = require('compression');
 const nodemailer = require('nodemailer');
 const helmet = require("helmet");
-const cache = require('express-redis-cache')();
+// const cache = require('express-redis-cache')();
 const rateLimit = require("express-rate-limit");
 
 const limiter = rateLimit({
@@ -37,7 +37,7 @@ app.use(helmet.xssFilter());
 app.disable('x-powered-by');
 
 // app.use(require('prerender-node').set('prerenderServiceUrl', 'http://localhost:3000/').set('protocol', 'https'))
-app.use(require('prerender-node').set('prerenderServiceUrl', 'http://localhost:3000/').set('protocol', 'https'));
+// app.use(require('prerender-node').set('prerenderServiceUrl', 'http://localhost:3000/').set('protocol', 'https'));
 // // add the routes that you want
 app.use('/toto', () => {
   throw new Error('ajdoijerr')
@@ -46,7 +46,7 @@ app.use('/toto', () => {
 // always add the middleware as the last one
 app.use(io.expressErrorHandler());
 
-app.use(cache.route());
+// app.use(cache.route());
 
 
 app.get('/uploads/1239-Redazionale_-__Coronavirus_e_assenza_dal_lavoro_-_aggiornamento_DPCM_11-3-2020.pdf', (req,res) => {
@@ -76,9 +76,15 @@ app.get('/uploads/:id', (req,res) => {
   res.end()
 });
 
-app.get('*', (req,res)  => {
+app.get('/carta-valori/carta-valori-lexant', (req,res)  => {
+  res.status(200).sendFile(process.cwd()+"/dist/lexant/assets/attachments/carta-valori/")
+});
+
+app.get(/['it','en','de','fr']/, (req,res)  => {
   res.status(200).sendFile(process.cwd()+"/dist/lexant/")
 });
+
+
 
 //mailer
 
