@@ -831,6 +831,18 @@
     "associazioni": "Les associations",
     "partners": "Partners"
   },
+  "VALORI": {
+    "title": "L'IMPEGNO DI LEXANT",
+    "body": "Lexant intraprende il percorso verso un modello imprenditoriale che coniuga obiettivi di profitto e impegno sociale ed inizia il 2021 con un progetto sfidante. Oltre a fornire assistenza e supporto alle aziende che intendano intraprendere il percorso verso lo status di Benefit Corporation, con la Carta dei Valori, Lexant è tra i primissimi del settore a voler essere diretta e personale espressione dei valori di sostenibilità, sicurezza, etica e trasparenza. <br> Secondo l’impostazione propria delle Società Benefit e della certificazione BCorp, Lexant ha quindi elaborato il proprio preliminare Benefit Assessment ed ha ufficialmente avviato il percorso volto alla creazione di un proprio concreto shared value verso persone, comunità, ambiente, ed ogni altro stakeholder.",
+    "subTitle": "Carta dei valori e benefit assessment",
+    "link":"Leggi <a href='https://www.lexant.it/carta-valori/carta-valori-lexant.html'>qui</a>",
+    "HOME1":"Carta dei valori",
+    "HOME2":"benefit",
+    "HOME3":"assessment"
+
+
+
+  },
   "BREADCRUMBS": {
     "STUDIO_LEGALE_LEXANT": "LE RÉSEAU",
     "IL_TEAM": "L'ÉQUIPE",
@@ -869,8 +881,9 @@
     "CONTENZIOSO_ARBITRATO": "CONTENTIEUX ET ARBITRAGE ",
     "ARCHIVIO": "ARCHIVER",
     "NEWS_E_EVENTI_ARCHIVIO": "ARCHIVES ACTUALITÉS ET ÉVÉNEMENTS",
-    "RESPONSIBILITY-ARCHIVIO": "RESPONSABILITÉ-ARCHIVE"
-  },
+    "RESPONSIBILITY-ARCHIVIO": "RESPONSABILITÉ-ARCHIVE",
+    "CARTA-VALORI":"CARTA-VALORI"
+    },
   "COOKIES": {
     "AcceptancePartOne": "Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site. \nCe site utilise des cookies, y compris des tiers, pour vous envoyer des messages promotionnels personnalisés. <br/> Pour en savoir plus, connaître les cookies utilisés par le site et éventuellement les désactiver, accédez au",
     "routerlink": "Cookie Policy",
