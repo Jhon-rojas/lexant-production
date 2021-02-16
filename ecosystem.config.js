@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: 'SERVER',
+    name: 'SERVERNEW',
     script: 'index.js',
 
     // Options reference: https://pm2.io/doc/en/runtime/reference/ecosystem-file/
@@ -19,13 +19,13 @@ module.exports = {
 
   deploy : {
     production : {
-      key: "~/.ssh/id_rsa.pub",
-      user : 'root',
-      host : '80.211.131.29',
+      // key: "~/ssh/id_rsa.pub",
+      user : 'lexant',
+      host : '80.211.79.178',
       ref  : 'origin/master',
       repo : 'git@github.com:Jhon-rojas/lexant-production.git',
       // "pre-deploy-local" : "git add . && git commit -a -m 'commit' && git push",
-      path : '/var/www/production',
+      path : '/home/lexant/html',
       'post-deploy' : 'npm link && pm2 reload ecosystem.config.js --env production && redis-cli FLUSHALL ASYNC'
     }
   }

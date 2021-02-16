@@ -8,7 +8,7 @@ const io = require('@pm2/io')
 const compression = require('compression');
 const nodemailer = require('nodemailer');
 const helmet = require("helmet");
-// const cache = require('express-redis-cache')();
+const cache = require('express-redis-cache')();
 const rateLimit = require("express-rate-limit");
 
 const limiter = rateLimit({
@@ -46,35 +46,8 @@ app.use('/toto', () => {
 // always add the middleware as the last one
 app.use(io.expressErrorHandler());
 
-// app.use(cache.route());
+app.use(cache.route());
 
-
-app.get('/uploads/1239-Redazionale_-__Coronavirus_e_assenza_dal_lavoro_-_aggiornamento_DPCM_11-3-2020.pdf', (req,res) => {
-  res.redirect('https://www.lexant.it/assets/attachments/pubblicazioni/1239-Redazionale_-__Coronavirus_e_assenza_dal_lavoro_-_aggiornamento_DPCM_11-3-2020.pdf');
-});
-
-
-app.get('/deu/pagina/:id', (req,res) => {
-  res.status(404)
-  res.end()
-});
-app.get('/it/pagina/:id', (req,res) => {
-  res.status(404)
-  res.end()
-});
-app.get('/fr/pagina/:id', (req,res) => {
-  res.status(404)
-  res.end()
-});
-app.get('/en/pagina/:id', (req,res) => {
-  res.status(404)
-  res.end()
-});
-
-app.get('/uploads/:id', (req,res) => {
-  res.status(404)
-  res.end()
-});
 
 app.get('/carta-valori/carta-valori-lexant', (req,res)  => {
   res.status(200).sendFile(process.cwd()+"/dist/lexant/assets/attachments/carta-valori/")
@@ -121,7 +94,7 @@ app.post('/api/email', upload.array(), function (req, res, next) {
     
     let mailOptions = {
       from: "noreply@lexant.com",
-      to: 'jhon.rojas@synergykey.it,segreteria@lexant.it',
+      to: 'jhon.rojas@synergykey.it',
       //to: 'jhon.rojas@synergykey.it',
       subject: 'Lexant nuovo contatto dal sito',
       //text: message, 
