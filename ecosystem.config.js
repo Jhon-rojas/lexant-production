@@ -20,7 +20,7 @@ module.exports = {
   deploy : {
     production : {
       // key: "~/ssh/id_rsa.pub",
-      user : 'lexant',
+      user : 'sudo',
       host : '80.211.79.178',
       ref  : 'origin/master',
       repo : 'git@github.com:Jhon-rojas/lexant-production.git',
