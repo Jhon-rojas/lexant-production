@@ -26,7 +26,7 @@ module.exports = {
       repo : 'git@github.com:Jhon-rojas/lexant-production.git',
       // "pre-deploy-local" : "git add . && git commit -a -m 'commit' && git push",
       path : '/home/lexant/html',
-      'post-deploy' : 'npm link && pm2 reload ecosystem.config.js --env production && redis-cli FLUSHALL ASYNC'
+      'post-deploy' : 'sudo npm link && pm2 reload ecosystem.config.js --env production && redis-cli FLUSHALL ASYNC'
     }
   }
 };
