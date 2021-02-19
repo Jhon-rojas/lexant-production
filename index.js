@@ -11,14 +11,14 @@ const helmet = require("helmet");
 const cache = require('express-redis-cache')();
 const rateLimit = require("express-rate-limit");
 
-const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 1000 // limit each IP to 100 requests per windowMs
-});
+// const limiter = rateLimit({
+//   windowMs: 15 * 60 * 1000, // 15 minutes
+//   max: 1000 // limit each IP to 100 requests per windowMs
+// });
 
 const app = express();
 
-app.use(limiter);
+// app.use(limiter);
 
 app.use(compression()); //Compress all routes
 
