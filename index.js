@@ -36,8 +36,8 @@ app.use(helmet.referrerPolicy());
 app.use(helmet.xssFilter());
 app.disable('x-powered-by');
 
-// app.use(require('prerender-node').set('prerenderServiceUrl', 'http://localhost:3000/').set('protocol', 'https'))
-// app.use(require('prerender-node').set('prerenderServiceUrl', 'http://localhost:3000/').set('protocol', 'https'));
+app.use(require('prerender-node').set('prerenderServiceUrl', 'http://localhost:3000/').set('protocol', 'https'))
+app.use(require('prerender-node').set('prerenderServiceUrl', 'http://localhost:3000/').set('protocol', 'https'));
 // // add the routes that you want
 app.use('/toto', () => {
   throw new Error('ajdoijerr')
